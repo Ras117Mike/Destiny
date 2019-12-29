@@ -1,0 +1,349 @@
+# Project information
+site_name: Destiny 2 Guides
+site_description: Guides and General Info for Destiny 2
+
+# Copyright
+copyright: 'Copyright &copy; 2019 - Present'
+
+
+nav:
+  - Home: index.md
+  - Story Line: story_line.md
+  # <!-- START DESTINY 2 MATERIAL -->
+  - Classes:
+    - Hunter: hunter_class.md
+    - Titan: titan_class.md
+    - Warlock: warlock_class.md
+  # <!-- START VENDOR SECTION -->
+  - Vendors:
+    # <!-- VENDOR START -->
+    - Ada-1:
+      - Background: ada-1/personel_data.md
+      - Bounties: ada-1/bounties.md
+      - Items: ada-1/items.md
+      - Pursuits:
+        - Pursuit: building.md
+      - Quests:
+        - Auto Rifle Frame: ada-1/quests/auto_rifle_frame.md
+        - Bow Frame: ada-1/quests/bow_frame.md
+        - Hand Cannon Frame: ada-1/quests/hand_cannon_frame.md
+        - Machine Gun Frame: ada-1/quests/machine_gun_frame.md
+        - Pulse Rifle Frame: ada-1/quests/pulse_rifle_frame.md
+        - Sniper Rifle Frame: ada-1/quests/sniper_rifle_frame.md
+        - Sword Frame: ada-1/quests/sword_frame.md
+        - The Spider's Competition: ada-1/quests/the_spiders_competition.md
+        - Rekindle the Flames: ada-1/quests/rekindle_the_flames.md
+    # <!-- VENDOR END -->
+    # <!-- VENDOR START -->
+    - Ana Bray:
+      - Background: ana_bray/personel_data.md
+      - Bounties: ana_bray/bounties.md
+      - Items: ana_bray/items.md
+      - Pursuits:
+        - Pursuit: building.md
+      - Quests:
+        - Quest: building.md
+    # <!-- VENDOR END -->
+    # <!-- VENDOR START -->
+    - Amanda Holliday:
+      - Background: amanda_holliday/personel_data.md
+      - Bounties: amanda_holliday/bounties.md
+      - Items: amanda_holliday/items.md
+      - Pursuits:
+        - Pursuit: building.md
+      - Quests:
+        - Quest: building.md
+    # <!-- VENDOR END -->
+    # <!-- VENDOR START -->
+    - Asher Mir:
+      - Background: asher_mir/personel_data.md
+      - Bounties: asher_mir/bounties.md
+      - Items: asher_mir/items.md
+      - Pursuits:
+        - Pursuit: building.md
+      - Quests:
+        - Quest: building.md
+    # <!-- VENDOR END -->
+    # <!-- VENDOR START -->
+    - Banshee-44:
+      - Background: banshee-44/personel_data.md
+      - Bounties: banshee-44/bounties.md
+      - Items: banshee-44/items.md
+      - Pursuits:
+        - Pursuit: building.md
+      - Quests:
+        - Quest: building.md
+    # <!-- VENDOR END -->
+    # <!-- VENDOR START -->
+    - Benedict 99-40:
+      - Background: benedict_99-40/personel_data.md
+      - Bounties: benedict_99-40/bounties.md
+      - Items: benedict_99-40/items.md
+      - Pursuits:
+        - Pursuit: building.md
+      - Quests:
+        - Quest: building.md
+    # <!-- VENDOR END -->
+    # <!-- VENDOR START -->
+    - Brother Vance:
+      - Background: brother_vance/personel_data.md
+      - Bounties: brother_vance/bounties.md
+      - Items: brother_vance/items.md
+      - Pursuits:
+        - Pursuit: building.md
+      - Quests:
+        - Quest: building.md
+    # <!-- VENDOR END -->
+    # <!-- VENDOR START -->
+    - Commander Zavala:
+      - Background: commander_zavala/personel_data.md
+      - Bounties: commander_zavala/bounties.md
+      - Items: commander_zavala/items.md
+      - Pursuits:
+        - Pursuit: building.md
+      - Quests:
+        - Quest: building.md
+    # <!-- VENDOR END -->
+    # <!-- VENDOR START -->
+    - Devrim Kay:
+      - Background: devrim_kay/personel_data.md
+      - Bounties: devrim_kay/bounties.md
+      - Items: devrim_kay/items.md
+      - Pursuits:
+        - Pursuit 1: building.md
+      - Quests:
+        - Quest: building.md
+    # <!-- VENDOR END -->
+    # <!-- VENDOR START -->
+    - Eris Morn:
+      - Background: eris_morn/personel_data.md
+      - Bounties: eris_morn/bounties.md
+      - Items: eris_morn/items.md
+      - Pursuits:
+        - Weekly Pursuit: eris_morn/pursuits/weekly_memory_pursuit.md
+        - Memory of Eriana-3: eris_morn/pursuits/memory_of_eriana-3.md
+        - Memory Of Omar Agah: eris_morn/pursuits/memory_of_omar_agah.md
+        - Memory of Sai Mota: eris_morn/pursuits/memory_of_sai_mota.md
+        - Memory of Toland: eris_morn/pursuits/memory_of_toland.md
+        - Memory of Vell Tarlowe: eris_morn/pursuits/memory_of_vell_tarlowe.md
+      - Quests:
+        - Pit of Heresy Dungeon: eris_morn/quests/pit_of_heresy_dungeon.md
+    # <!-- VENDOR END -->
+    # <!-- VENDOR START -->
+    - Failsafe:
+      - Background: failsafe/personel_data.md
+      - Bounties: failsafe/bounties.md
+      - Items: failsafe/items.md
+      - Pursuits:
+        - Pursuit: building.md
+      - Quests:
+        - Quest: building.md
+    # <!-- VENDOR END -->
+    # <!-- VENDOR START -->
+    - Ikora Rey:
+      - Background: ikora_rey/personel_data.md
+      - Bounties: ikora_rey/bounties.md
+      - Items: ikora_rey/items.md
+      - Pursuits:
+        - Pursuit: building.md
+      - Quests:
+        - Quest: building.md
+    # <!-- VENDOR END -->
+    # <!-- VENDOR START -->
+    - Lord Shaxx:
+      - Background: lord_shaxx/personel_data.md
+      - Bounties: lord_shaxx/bounties.md
+      - Items: lord_shaxx/items.md
+      - Pursuits:
+        - Pursuit: building.md
+      - Quests:
+        - Quest: building.md
+    # <!-- VENDOR END -->
+    # <!-- VENDOR START -->
+    - Sloane:
+      - Background: sloane/personel_data.md
+      - Bounties: sloane/bounties.md
+      - Items: sloane/items.md
+      - Pursuits:
+        - Pursuit: building.md
+      - Quests:
+        - Quest: building.md
+    # <!-- VENDOR END -->
+    # <!-- VENDOR START -->
+    - Suraya Hawthorne:
+      - Background: suraya_hawthorne/personel_data.md
+      - Bounties: suraya_hawthorne/bounties.md
+      - Items: suraya_hawthorne/items.md
+      - Pursuits:
+        - Pursuit: building.md
+      - Quests:
+        - Quest: building.md
+    # <!-- VENDOR END -->
+    # <!-- VENDOR START -->
+    - The Drifter:
+      - Background: the_drifter/personel_data.md
+      - Bounties: the_drifter/bounties.md
+      - Items: the_drifter/items.md
+      - Pursuits:
+        - Pursuit: building.md
+      - Quests:
+        - Quest: building.md
+    # <!-- VENDOR END -->
+  # <!-- END VENDOR SECTION -->
+  # <!-- START EXOTIC QUESTS -->
+  - Exotics:
+    # <!-- START EXOTIC WEAPONS -->
+    - Weapons:
+      - Ace of Spades: exotics/weapons/ace_of_spades_exotic.md
+      - Anarchy: exotics/weapons/anarchy_exotic.md
+      - Arbalest: exotics/weapons/arbalest_exotic.md
+      - Bad Juju: exotics/weapons/bad_juju_exotic.md
+      - Black Talon: exotics/weapons/black_talon_exotic.md
+      - Borealis: exotics/weapons/borealis_exotic.md
+      - Cerberus+1: exotics/weapons/cerberus1_exotic.md
+      - Coldheart: exotics/weapons/coldheart_exotic.md
+      - Crimson: exotics/weapons/crimson_exotic.md
+      - D.A.R.C.I.: exotics/weapons/darci_exotic.md
+      - Deathbringer: exotics/weapons/deathbringer_exotic.md
+      - Divinity: exotics/weapons/divinity_exotic.md
+      - Eriana's Vow: exotics/weapons/erianas_vow_exotic.md
+      - Fighting Lion: exotics/weapons/fighting_lion_exotic.md
+      - Graviton Lance: exotics/weapons/graviton_lance_exotic.md
+      - Hard Light: exotics/weapons/hard_light_exotic.md
+      - Izanagi's Burden: exotics/weapons/izanagis_burden_exotic.md
+      - Jötunn: exotics/weapons/jötunn_exotic.md
+      - Le Monarque: exotics/weapons/le_monarque_exotic.md
+      - Legend of Acrius: exotics/weapons/legend_of_acrius_exotic.md
+      - Leviathan's Breath: exotics/weapons/leviathans_breath_exotic.md
+      - Lord of Wolves: exotics/weapons/lord_of_wolves_exotic.md
+      - Lumina: exotics/weapons/lumina_exotic.md
+      - Malfeasance: exotics/weapons/malfeasance_exotic.md
+      - Merciless: exotics/weapons/merciless_exotic.md
+      - MIDA Multi- Tool: exotics/weapons/mida_multi-tool_exotic.md
+      - Monte Carlo: exotics/weapons/monte_carlo_exotic.md
+      - One Thousand Voices: exotics/weapons/one_thousand_voices_exotic.md
+      - Outbreak Perfected: exotics/weapons/outbreak_perfected_exotic.md
+      - Polaris Lance: exotics/weapons/polaris_lance_exotic.md
+      - Prometheus Lens: exotics/weapons/prometheus_lens_exotic.md
+      - Rat King: exotics/weapons/rat_king_exotic.md
+      - Riskrunner: exotics/weapons/riskrunner_exotic.md
+      - Skyburner's Oath: exotics/weapons/skyburners_oath_exotic.md
+      - Sleeper Simulant: exotics/weapons/sleeper_simulant_exotic.md
+      - Sturm: exotics/weapons/sturm_exotic.md
+      - Sunshot: exotics/weapons/sunshot_exotic.md
+      - SUROS Regime: exotics/weapons/suros_regime_exotic.md
+      - Sweet Business: exotics/weapons/sweet_business_exotic.md
+      - Tarrabah: exotics/weapons/tarrabah_exotic.md
+      - Telesto: exotics/weapons/telesto_exotic.md
+      - The Chaperone: exotics/weapons/the_chaperone_exotic.md
+      - The Colony: exotics/weapons/the_colony_exotic.md
+      - The Huckleberry: exotics/weapons/the_huckleberry_exotic.md
+      - The Jade Rabbit: exotics/weapons/the_jade_rabbit_exotic.md
+      - The Last Word : exotics/weapons/the_last_word__exotic.md
+      - The Prospector: exotics/weapons/the_prospector_exotic.md
+      - The Queenbreaker: exotics/weapons/the_queenbreaker_exotic.md
+      - The Wardcliff Coil: exotics/weapons/the_wardcliff_coil_exotic.md
+      - Thorn: exotics/weapons/thorn_exotic.md
+      - Thunderlord: exotics/weapons/thunderlord_exotic.md
+      - Tractor Cannon: exotics/weapons/tractor_cannon_exotic.md
+      - Trinity Ghoul: exotics/weapons/trinity_ghoul_exotic.md
+      - Truth: exotics/weapons/truth_exotic.md
+      - Two- Tailed Fox: exotics/weapons/two-tailed_fox_exotic.md
+      - Vigilance Wing: exotics/weapons/vigilance_wing_exotic.md
+      - Wavesplitter: exotics/weapons/wavesplitter_exotic.md
+      - Whisper of the Worm: exotics/weapons/whisper_of_the_worm_exotic.md
+      - Wish- Ender: exotics/weapons/wish-ender_exotic.md
+      - Worldline Zero: exotics/weapons/worldline_zero_exotic.md
+      - Xenophage: exotics/weapons/xenophage_exotic.md
+    # <!-- END EXOTIC WEAPONS -->
+    # <!-- START EXOTIC ARMOR -->
+    - Armor:
+      - Hunter:
+        - Aeon Swift: exotics/armor/hunter/aeon_swift_exotic.md
+        - Assassin's Cowl: exotics/armor/hunter/assassins_cowl_exotic.md
+        - Celestial Nighthawk: exotics/armor/hunter/celestial_nighthawk_exotic.md
+        - Foetracer: exotics/armor/hunter/foetracer_exotic.md
+        - Fr0st-EE5: exotics/armor/hunter/fr0st-ee5_exotic.md
+        - Gemini Jester: exotics/armor/hunter/gemini_jester_exotic.md
+        - Graviton Forfeit: exotics/armor/hunter/graviton_forfeit_exotic.md
+        - Gwisin Vest: exotics/armor/hunter/gwisin_vest_exotic.md
+        - Khepri's Sting: exotics/armor/hunter/khepris_sting_exotic.md
+        - Knucklehead Radar: exotics/armor/hunter/knucklehead_radar_exotic.md
+        - Liar's Handshake: exotics/armor/hunter/liars_handshake_exotic.md
+        - Lucky Pants: exotics/armor/hunter/lucky_pants_exotic.md
+        - Lucky Raspberry: exotics/armor/hunter/lucky_raspberry_exotic.md
+        - Mechaneer's Tricksleeves: exotics/armor/hunter/mechaneers_tricksleeves_exotic.md
+        - Oathkeeper: exotics/armor/hunter/oathkeeper_exotic.md
+        - Ophidia Spathe: exotics/armor/hunter/ophidia_spathe_exotic.md
+        - Orpheus Rig: exotics/armor/hunter/orpheus_rig_exotic.md
+        - Raiden Flux: exotics/armor/hunter/raiden_flux_exotic.md
+        - Sealed Ahamkara Grasps: exotics/armor/hunter/sealed_ahamkara_grasps_exotic.md
+        - Shards of Galanor: exotics/armor/hunter/shards_of_galanor_exotic.md
+        - Shinobu's Vow: exotics/armor/hunter/shinobus_vow_exotic.md
+        - St0mp-EE5: exotics/armor/hunter/st0mp-ee5_exotic.md
+        - The Dragon's Shadow: exotics/armor/hunter/the_dragons_shadow_exotic.md
+        - The Sixth Coyote: exotics/armor/hunter/the_sixth_coyote_exotic.md
+        - Wormhusk Crown: exotics/armor/hunter/wormhusk_crown_exotic.md
+        - Young Ahamkara's Spine: exotics/armor/hunter/young_ahamkaras_spine_exotic.md
+      #- Titan:
+      #- Warlock:
+    # <!-- END EXOTIC ARMOR -->
+  # <!-- END EXOTIC SECTION -->
+  # <!-- END DESTINY 2 MATERIAL -->
+  # <!-- START ABOUT SECTION -->
+  - About:
+    - About: about/about.md
+    - Contributing: about/contributing.md
+    - Markdown: about/markdown.md
+    - License: about/license.md
+  # <!-- END ABOUT SECTION -->
+# <!-- START CUSTOMIZATION SECTION -->
+# Documentation and theme
+theme:
+  logo: 'images/exotic_engram.svg'
+  favicon: 'images/exotic_engram.ico'
+  name: 'material'
+  palette:
+    primary: 'light green'
+    accent: 'green'
+
+#extra_css:
+#  - 'stylesheets/extra.css'
+
+# Social
+extra:
+  social:
+    - type: 'github'
+      link: 'https://github.com/ras117mike'
+    - type: 'youtube'
+      link: 'https://www.youtube.com/channel/UCPujPMPfoS1EUUuNwkqDayQ'
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - pymdownx.betterem
+  - pymdownx.emoji
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist
+  - pymdownx.tilde
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+# <!-- END CUSTOMIZATION SECTION -->

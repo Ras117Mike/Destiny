@@ -1,0 +1,20 @@
+# Eris Morn's Weekly Memory Pursuit
+With the release of Shadowkeep, you get a weekly pursuit quest to complete to help Eris nightmares of Eris's Fireteam, they include:
+
+* Memory of Sai Mota
+* Memory Of Omar Agah
+* Memory of Vell Tarlowe
+* Memory of Toland
+* Memory of Memory of Eriana-3
+
+## Lore
+>Following this great disaster Eriana-3 and Eris Morn sought to find another way to kill Crota. They consulted Toland the Shattered, the "exiled master of Hive arcana", who told them that Crota existed in another reality, one where he could be defeated.
+
+>Vell Tarlowe, Omar Agah and Sai Mota, along with Eris, Eriana and Toland, embarked on an expedition into the depths of the Hive fortress on the Moon.
+
+>They were all believed to have perished in the Hellmouth. After many years, Eris Morn returned without her Ghost, having somehow survived amongst the Hive, with tales of her Fireteam's failure and the demise of her comrades at the hands of Crota's disciples.
+
+[source: The Ishtar Collective](https://www.ishtar-collective.net/categories/the-first-crota-fireteam)
+
+## Memory of Sai Mota
+To start this memory you need to have completed the Shadowekk story line. Speak with Eris and pick up her weekly bounty. This is also part of the [Deathbringer Quest](/../../exotics/weapons/deathbringer_exotic/)
