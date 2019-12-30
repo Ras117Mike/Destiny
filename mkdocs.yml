@@ -10,6 +10,7 @@ copyright: 'Copyright &copy; 2019 - Present'
 nav:
   - Home: index.md
   - Story Line: story_line.md
+  - Seals: legend_seals.md
   # <!-- START DESTINY 2 MATERIAL -->
   - Classes:
     - Hunter: hunter_class.md
