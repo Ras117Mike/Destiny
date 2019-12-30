@@ -1,5 +1,10 @@
 # Devrim Kay Basic bounties
 
+Please excuse us Guardian, we are still building this reference page.
+
+![Under Construction](https://ras117mike.github.io/Destiny2/images/general/under_construction.png)
+
+
 Name | Description | Type | Objectives | Count | Rewards
 -----|-------------|------|------------|-------|--------
 Channel the Arc |

@@ -1,4 +1,9 @@
 # Eris Morn's Weekly Memory Pursuit
+
+Please excuse us Guardian, we are still building this reference page.
+
+![Under Construction](https://ras117mike.github.io/Destiny2/images/general/under_construction.png)
+
 With the release of Shadowkeep, you get a weekly pursuit quest to complete to help Eris nightmares of Eris's Fireteam, they include:
 
 * Memory of Sai Mota

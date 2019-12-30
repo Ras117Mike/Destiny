@@ -6,7 +6,7 @@ site_url: https://ras117mike.github.io/Destiny2/
 # Copyright
 copyright: 'Copyright &copy; 2019 - Present'
 
-
+# Navigation
 nav:
   - Home: index.md
   - Story Line: story_line.md
@@ -241,6 +241,7 @@ nav:
     - License: about/license.md
   # <!-- END ABOUT SECTION -->
 # <!-- START CUSTOMIZATION SECTION -->
+
 # Documentation and theme
 theme:
   logo: 'images/exotic_engram.svg'
