@@ -3,7 +3,7 @@
     This site is still a work in progress, some pages may not be complete as yet. Please excuse the mess.
 
 If you are new to Destiny 2 and want to know how to play the story mode, click [here](story_line.md) to see the order in which to play so you follow along chronologically.
-<img align="right" src="/images/the_traveler.png" height="300">
+<img align="right" src="images/the_traveler.png" height="300">
 
 ## Information and Guides for the Destiny Games
 
@@ -11,7 +11,7 @@ If you are new to Destiny 2 and want to know how to play the story mode, click [
 Destiny 2 is an online-only multiplayer first-person shooter video game developed by Bungie. Like in Destiny 1, activities are divided among player versus environment (PvE) and player versus player (PvP) game types. The game features normal story missions, three-player "strikes" and six-player raids, free roam patrol mode for each planet, public events and more seasonal activities.
 
 ## Overview and Introduction
-Players assume the role of a Guardian, protectors of Earth's last safe city that wield a power called the Light to protect humanity from different alien races. Destiny 2 features the same three character classes as the original Destiny. Each class has their own specific upgrades, perks, special abilities, and three sub-classes that allow players to finely tune their individual characters to provide a different play style. The three classes are Warlock, Hunter, and Titan and three species for their character: Human, Awoken, or Exo. You can have a total of three Characters.<img align="right" src="/images/general/dominus_ghaul.png" height="300">
+Players assume the role of a Guardian, protectors of Earth's last safe city that wield a power called the Light to protect humanity from different alien races. Destiny 2 features the same three character classes as the original Destiny. Each class has their own specific upgrades, perks, special abilities, and three sub-classes that allow players to finely tune their individual characters to provide a different play style. The three classes are Warlock, Hunter, and Titan and three species for their character: Human, Awoken, or Exo. You can have a total of three Characters.<img align="right" src="images/general/dominus_ghaul.png" height="300">
 
 Destiny 2 is set one year after the SIVA Crisis that closed off Destiny 1. The story starts off with the Red Legion, let by Dominus Ghaul, launching a massive attack on the Last City, destroying the Tower and attaching a device on the Traveler that starts draining the Light, thereby taking it away from Guardians  and their Ghosts leaving Guardians and humanity at the mercy of the Cabal. You follow a vision to a shard of the Traveler where your Ghost interfaces with it and both Ghost's and your light are restored. After reuniting Zavala, Cayde, Ikora and other Guardians;you bring down The Amighty, a solar system destroying ship that the Cabal has pointed at the Sun as an "Insurance Policy"; the Cabal either conquer a system or destory it completely.
 
