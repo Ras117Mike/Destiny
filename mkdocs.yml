@@ -22,8 +22,6 @@ nav:
       - Background: ada-1/personel_data.md
       - Bounties: ada-1/bounties.md
       - Items: ada-1/items.md
-      - Pursuits:
-        - Pursuit: building.md
       - Quests:
         - Auto Rifle Frame: ada-1/quests/auto_rifle_frame.md
         - Bow Frame: ada-1/quests/bow_frame.md
@@ -40,80 +38,48 @@ nav:
       - Background: ana_bray/personel_data.md
       - Bounties: ana_bray/bounties.md
       - Items: ana_bray/items.md
-      - Pursuits:
-        - Pursuit: building.md
-      - Quests:
-        - Quest: building.md
     # <!-- VENDOR END -->
     # <!-- VENDOR START -->
     - Amanda Holliday:
       - Background: amanda_holliday/personel_data.md
       - Bounties: amanda_holliday/bounties.md
       - Items: amanda_holliday/items.md
-      - Pursuits:
-        - Pursuit: building.md
-      - Quests:
-        - Quest: building.md
     # <!-- VENDOR END -->
     # <!-- VENDOR START -->
     - Asher Mir:
       - Background: asher_mir/personel_data.md
       - Bounties: asher_mir/bounties.md
       - Items: asher_mir/items.md
-      - Pursuits:
-        - Pursuit: building.md
-      - Quests:
-        - Quest: building.md
     # <!-- VENDOR END -->
     # <!-- VENDOR START -->
     - Banshee-44:
       - Background: banshee-44/personel_data.md
       - Bounties: banshee-44/bounties.md
       - Items: banshee-44/items.md
-      - Pursuits:
-        - Pursuit: building.md
-      - Quests:
-        - Quest: building.md
     # <!-- VENDOR END -->
     # <!-- VENDOR START -->
     - Benedict 99-40:
       - Background: benedict_99-40/personel_data.md
       - Bounties: benedict_99-40/bounties.md
       - Items: benedict_99-40/items.md
-      - Pursuits:
-        - Pursuit: building.md
-      - Quests:
-        - Quest: building.md
     # <!-- VENDOR END -->
     # <!-- VENDOR START -->
     - Brother Vance:
       - Background: brother_vance/personel_data.md
       - Bounties: brother_vance/bounties.md
       - Items: brother_vance/items.md
-      - Pursuits:
-        - Pursuit: building.md
-      - Quests:
-        - Quest: building.md
     # <!-- VENDOR END -->
     # <!-- VENDOR START -->
     - Commander Zavala:
       - Background: commander_zavala/personel_data.md
       - Bounties: commander_zavala/bounties.md
       - Items: commander_zavala/items.md
-      - Pursuits:
-        - Pursuit: building.md
-      - Quests:
-        - Quest: building.md
     # <!-- VENDOR END -->
     # <!-- VENDOR START -->
     - Devrim Kay:
       - Background: devrim_kay/personel_data.md
       - Bounties: devrim_kay/bounties.md
       - Items: devrim_kay/items.md
-      - Pursuits:
-        - Pursuit 1: building.md
-      - Quests:
-        - Quest: building.md
     # <!-- VENDOR END -->
     # <!-- VENDOR START -->
     - Eris Morn:
@@ -135,60 +101,36 @@ nav:
       - Background: failsafe/personel_data.md
       - Bounties: failsafe/bounties.md
       - Items: failsafe/items.md
-      - Pursuits:
-        - Pursuit: building.md
-      - Quests:
-        - Quest: building.md
     # <!-- VENDOR END -->
     # <!-- VENDOR START -->
     - Ikora Rey:
       - Background: ikora_rey/personel_data.md
       - Bounties: ikora_rey/bounties.md
       - Items: ikora_rey/items.md
-      - Pursuits:
-        - Pursuit: building.md
-      - Quests:
-        - Quest: building.md
     # <!-- VENDOR END -->
     # <!-- VENDOR START -->
     - Lord Shaxx:
       - Background: lord_shaxx/personel_data.md
       - Bounties: lord_shaxx/bounties.md
       - Items: lord_shaxx/items.md
-      - Pursuits:
-        - Pursuit: building.md
-      - Quests:
-        - Quest: building.md
     # <!-- VENDOR END -->
     # <!-- VENDOR START -->
     - Sloane:
       - Background: sloane/personel_data.md
       - Bounties: sloane/bounties.md
       - Items: sloane/items.md
-      - Pursuits:
-        - Pursuit: building.md
-      - Quests:
-        - Quest: building.md
     # <!-- VENDOR END -->
     # <!-- VENDOR START -->
     - Suraya Hawthorne:
       - Background: suraya_hawthorne/personel_data.md
       - Bounties: suraya_hawthorne/bounties.md
       - Items: suraya_hawthorne/items.md
-      - Pursuits:
-        - Pursuit: building.md
-      - Quests:
-        - Quest: building.md
     # <!-- VENDOR END -->
     # <!-- VENDOR START -->
     - The Drifter:
       - Background: the_drifter/personel_data.md
       - Bounties: the_drifter/bounties.md
       - Items: the_drifter/items.md
-      - Pursuits:
-        - Pursuit: building.md
-      - Quests:
-        - Quest: building.md
     # <!-- VENDOR END -->
   # <!-- END VENDOR SECTION -->
   # <!-- START EXOTIC QUESTS -->
