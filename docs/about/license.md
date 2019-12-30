@@ -9,7 +9,7 @@ with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
 A copy of the license is included in the section entitled "GNU
 Free Documentation License".
 
-![GFDL logo](/images/gfdl-logo.png)
+![GFDL logo](https://ras117mike.github.io/Destiny2/images/gfdl-logo.png)
 ## GNU Free Documentation License
 Version 1.3, 3 November 2008
 

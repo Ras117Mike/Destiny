@@ -1,5 +1,5 @@
 # Kindled Orchid (Void Hand Cannon) - Gofannon Forge
-![Kindled Orchid](/images/icons/kindled_orchid.jpg)
+![Kindled Orchid](https://ras117mike.github.io/Destiny2/images/icons/kindled_orchid.jpg)
 
 **Find the beauty in the flame.**
 
@@ -76,4 +76,4 @@ Magazine | 10 |  |  |
 * Forge ignition completed: 1
 
 ## Display
-![Kindled Orchid](/images/displays/kindled_orchid.jpg)
+![Kindled Orchid](https://ras117mike.github.io/Destiny2/images/displays/kindled_orchid.jpg)

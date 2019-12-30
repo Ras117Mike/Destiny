@@ -1,14 +1,14 @@
 # Bad Juju Exotic Quest
 Text | Image
 -----|-------
-"If you believe your weapon wants to end all existence, then so it will."</br>—Toland the Shattered<p>Full Lore on [Ishtar Collective](https://www.ishtar-collective.net/entries/bad-juju)|![Bad Juju](/images/icons/bad_juju.jpg)
+"If you believe your weapon wants to end all existence, then so it will."</br>—Toland the Shattered<p>Full Lore on [Ishtar Collective](https://www.ishtar-collective.net/entries/bad-juju)|![Bad Juju](https://ras117mike.github.io/Destiny2/images/icons/bad_juju.jpg)
 
 ## Unlock the Tribute Hall
 To initiate the quest you will need an Invitation from the Emperor. To get this, visit Werner-44 on the Barge on Nessus and open the chest next to him, it will cost you 5000 glimmer however.
 
 Spawn to the Watcher's Grave area and the barge will be directly in front of you. _p.s. the Xur (IX) logo will not always be on the map as he moves around the world but that is the location of the barge._
 
-![Barge Location](/images/maps/nessus_barge_location.jpg)
+![Barge Location](https://ras117mike.github.io/Destiny2/images/maps/nessus_barge_location.jpg)
 
 ### Invitation from the Emperor
 After you open the chest, you will get the Invitation from the Emperor step. To complete this step you will need to visit the Tribute Hall and speak to the Visage of Calus. To get to the Tribute Hall, bring up Nessus from the Destinations map and at the bottom you will see the icon next to the Leviathan and Menagerie icons.

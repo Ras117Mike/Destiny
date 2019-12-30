@@ -6,7 +6,7 @@ Text | Image
 
 | Icon | Description |
 |------|-------------|
-| ![ Icon](/images/icons/name.jpg) | text |
+| ![ Icon](https://ras117mike.github.io/Destiny2/images/icons/name.jpg) | text |
 
 
 ## Weapon Stats

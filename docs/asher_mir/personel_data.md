@@ -1,5 +1,5 @@
 # Asher Mir
-<img align="right" src="/images/vendors/asher_mir.png" width="150">
+<img align="right" src="https://ras117mike.github.io/Destiny2/images/vendors/asher_mir.png" width="150">
 
 ## Personnel Data
 
@@ -10,4 +10,4 @@
 ## Location
 
 
-<img src="/images/maps/asher_mir_location.jpg" width="400">
+<img src="https://ras117mike.github.io/Destiny2/images/maps/asher_mir_location.jpg" width="400">

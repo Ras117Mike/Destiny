@@ -1,6 +1,6 @@
 # Ana Bray
 
-<img align="right" src="/images/vendors/ana_bray.png" width="150">
+<img align="right" src="https://ras117mike.github.io/Destiny2/images/vendors/ana_bray.png" width="150">
 
 ## Personnel Data
 
@@ -23,4 +23,4 @@ With the Shadowkeep DLC you will need to proceed through the initial quest steps
 ## Location
 Ana can be found on Mars in the Braytech Futurescape area. Once you spawn in, head straight ahead into the facility and Ana will be in the area on the right.
 
-<img src="/images/maps/ana_bray_location.jpg" width="400">
+<img src="https://ras117mike.github.io/Destiny2/images/maps/ana_bray_location.jpg" width="400">

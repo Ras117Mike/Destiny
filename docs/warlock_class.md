@@ -3,7 +3,7 @@
 
 | Logo | Crest| Description |
 |------|------|-------------|
-| ![Warlock Logo](https://ras117mike.github.io/Destiny2https://ras117mike.github.io/Destiny2/images/icons/warlock_class_icon.svg) | <img align="right" src="https://ras117mike.github.io/Destiny2/images/icons/warlock_class.webp" width="100"> | Warlocks have long studied the Traveler, mastering some of its arcane energies. Its true purpose still remains a great mystery, but discovering truth has always driven you into the unknown. Warlocks weaponize the mysteries of the universe to sustain themselves and devastate their foes. |
+| ![Warlock Logo](https://ras117mike.github.io/Destiny2/images/icons/warlock_class_icon.svg) | <img align="right" src="https://ras117mike.github.io/Destiny2/images/icons/warlock_class.webp" width="100"> | Warlocks have long studied the Traveler, mastering some of its arcane energies. Its true purpose still remains a great mystery, but discovering truth has always driven you into the unknown. Warlocks weaponize the mysteries of the universe to sustain themselves and devastate their foes. |
 
 ## Subclass Abilities
 | Item | Arc | Solar | Void |

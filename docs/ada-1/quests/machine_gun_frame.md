@@ -1,5 +1,5 @@
 # Hammerhead (Void Machine Gun) - Volundr Forge
-![Hammerhead](/images/icons/hammerhead.jpg)
+![Hammerhead](https://ras117mike.github.io/Destiny2/images/icons/hammerhead.jpg)
 
 **Smash through the veil.**
 
@@ -75,4 +75,4 @@ Magazine | 60	 |  |
 * Forge ignition completed: 1
 
 ## Display
-![Hammerhead](/images/displays/hammerhead.jpg)
+![Hammerhead](https://ras117mike.github.io/Destiny2/images/displays/hammerhead.jpg)

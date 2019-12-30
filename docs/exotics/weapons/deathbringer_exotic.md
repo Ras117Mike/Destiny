@@ -1,7 +1,7 @@
 # Deathbringer Exotic Guide
 Text | Image
 -----|-------
-"Sing them a lullaby of death and nothing more."<p>Full Lore on [Ishar Collective](https://www.ishtar-collective.net/entries/deathbringer)|![Deathbringer](/images/icons/deathbringer.jpg)
+"Sing them a lullaby of death and nothing more."<p>Full Lore on [Ishar Collective](https://www.ishtar-collective.net/entries/deathbringer)|![Deathbringer](https://ras117mike.github.io/Destiny2/images/icons/deathbringer.jpg)
 
 As with any exotic in Destiny they aide in your leveling so we'd advise to hold off on doing this quest until you hit Light level 900 to help with that last leg of leveling.
 

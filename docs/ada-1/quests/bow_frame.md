@@ -1,5 +1,5 @@
 # The Spiteful Fang (Kinetic Combat Bow) - Izanami Forge
-![Spiteful Fang](/images/icons/the_spiteful_fang.jpg)
+![Spiteful Fang](https://ras117mike.github.io/Destiny2/images/icons/the_spiteful_fang.jpg)
 
 **Pierce the heart of reality.**
 
@@ -74,4 +74,4 @@ Draw Time | 612 | Bounce Direction | Tends Left
 * Forge ignition completed: 1
 
 ## Display
-![Spiteful Fang](/images/displays/the_spiteful_fang.jpg)
+![Spiteful Fang](https://ras117mike.github.io/Destiny2/images/displays/the_spiteful_fang.jpg)

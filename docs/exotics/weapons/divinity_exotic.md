@@ -10,7 +10,7 @@ The Divinity is something you get from the raid but there are some steps you wil
 This is the area you first spawn into right after you launch Shadowkeep. To get back there, spawn on the moon at the Sorrow Harbor’s location. From the spawn point, go straight ahead and you’ll find a bridge, go across it and proceed until you get to the Battlegrounds area, as you enter make a left turn before actually getting to the buildings, there will be a cave that you go into. In the cave will be a giant Vex gate which is the entrance to the raid.
 
 Approach the gate and Vex will start attacking you, keep killing them until a Gate Lord shows up, kill him and he will drop an Exotic Engram which will start the quest for you.
-![Alt Location](/images/LunarBattlegrounds.png)
+![Alt Location](https://ras117mike.github.io/Destiny2/images/LunarBattlegrounds.png)
 
 ## Lost Sectors on Nessus (Vex Core analyzed)
 
@@ -19,17 +19,17 @@ For this step you will need to visit three lost sectors (you don’t need to kil
 ### The Orrey in Artifact’s Edge
 
 Once in the Orrey, proceed to the first path where you encounter Vex, on the left wall as you are looking at the Boss will be a small hole that you will need to enter into. In the room will be an Oracle that you need to activate. Once activated, some Vex will spawn in, kill them all and then activate the Oracle again.
-![The Orrey Location](/images/TheOrrey.png)
+![The Orrey Location](https://ras117mike.github.io/Destiny2/images/TheOrrey.png)
 
 ### Ancient’s Haunt in The Tangle
 
 After you first encounter the Vex, continue into the cave, on the left wall there will be a smaller cave, do the same as above to activate the Oracle.
-![Ancient’s Haunt Location](/images/AncientsHaunt.png)
+![Ancient’s Haunt Location](https://ras117mike.github.io/Destiny2/images/AncientsHaunt.png)
 
 ### The Conflux in The Cistern.
 
 Once in the lost sector, continue until you get to the room where the boss is in, before proceeding to the boss, on the right wall there will be an opening which will lead you to an Oracle where you will proceed as in the Orrey. To get to the hole you will need to jump up the middle column and turn to the right as you face the boss.
-![The Conflux Location](/images/TheConflux.png)
+![The Conflux Location](https://ras117mike.github.io/Destiny2/images/TheConflux.png)
 
 ## Kill vex on the moon (Decryption Core repaired)
 

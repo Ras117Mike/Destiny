@@ -17,4 +17,4 @@ With the release of Shadowkeep, you get a weekly pursuit quest to complete to he
 [source: The Ishtar Collective](https://www.ishtar-collective.net/categories/the-first-crota-fireteam)
 
 ## Memory of Sai Mota
-To start this memory you need to have completed the Shadowekk story line. Speak with Eris and pick up her weekly bounty. This is also part of the [Deathbringer Quest](/../../exotics/weapons/deathbringer_exotic/)
+To start this memory you need to have completed the Shadowkeep story line. Speak with Eris and pick up her weekly bounty. This is also part of the [Deathbringer Quest](/../../exotics/weapons/deathbringer_exotic/)

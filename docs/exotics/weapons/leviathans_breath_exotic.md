@@ -1,7 +1,7 @@
 # Leviathan's Breath Exotic Quest
 Text | Image
 -----|-------
-"Cast a Shadow over the wilds of this universe. Return with glorious trophies."<br>—Emperor Calus<p>Full Lore on [Ishar Collective](https://www.ishtar-collective.net/entries/leviathans-breath) |![Leviathan's Breath](/images/icons/leviathans_breath.jpg)
+"Cast a Shadow over the wilds of this universe. Return with glorious trophies."<br>—Emperor Calus<p>Full Lore on [Ishar Collective](https://www.ishtar-collective.net/entries/leviathans-breath) |![Leviathan's Breath](https://ras117mike.github.io/Destiny2/images/icons/leviathans_breath.jpg)
 
 ## The Back Way
 > “Banshee-44 wants to give you a weapon stored in his workshop, but he didn’t specify how to get in. Locate the hidden entrance to Banshee’s workshop and find the weapon.”

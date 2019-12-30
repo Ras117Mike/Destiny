@@ -1,5 +1,5 @@
 # The Ringing Nail (Solar Auto Rifle) - Volundr Forge
-![The Ringing Nail](/images/icons/the_ringing_nail.jpg)
+![The Ringing Nail](https://ras117mike.github.io/Destiny2/images/icons/the_ringing_nail.jpg)
 
 **Strike while the iron's hot.**
 
@@ -73,4 +73,4 @@ Magazine | 32 |
 * Forge ignition completed: 1
 
 ## Display
-![The Ringing Nail](/images/displays/the_ringing_nail.jpg)
+![The Ringing Nail](https://ras117mike.github.io/Destiny2/images/displays/the_ringing_nail.jpg)

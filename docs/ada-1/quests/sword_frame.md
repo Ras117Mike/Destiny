@@ -1,5 +1,5 @@
 # Stryker’s Sure-Hand (Arc Sword) - Volundr Forge
-![Stryker’s Sure-Hand](/images/icons/strykers_sure-hand.jpg)
+![Stryker’s Sure-Hand](https://ras117mike.github.io/Destiny2/images/icons/strykers_sure-hand.jpg)
 
 **No job too big.**
 
@@ -7,7 +7,7 @@ Weapon Stats | | Hidden Stats | |
 -------------|-|--------------|-|
 Swing Speed | 46 | Zoom | 0
 Impact | 62 |  | 		
-Range | 46 |  | 
+Range | 46 |  |
 Efficiency | 55 |  |
 Defense | 46 |  |
 Ammo Capacity | 60 |  |
@@ -74,4 +74,4 @@ Ammo Capacity | 60 |  |
 * Forge ignition completed: 1
 
 ## Display
-![Stryker’s Sure-Hand](/images/displays/strykers_sure-hand.jpg)
+![Stryker’s Sure-Hand](https://ras117mike.github.io/Destiny2/images/displays/strykers_sure-hand.jpg)

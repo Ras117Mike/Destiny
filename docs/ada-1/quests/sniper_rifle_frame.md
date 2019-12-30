@@ -1,5 +1,5 @@
 # Tatara Gaze (Arc Sniper Rifle) - Gofannon Forge
-![Tatara Gaze](/images/icons/tatara_gaze.jpg)
+![Tatara Gaze](https://ras117mike.github.io/Destiny2/images/icons/tatara_gaze.jpg)
 
 **The fire in your eyes reveals all truths.**
 
@@ -77,4 +77,4 @@ Magazine | 3 |  |
 * Forge ignition completed: 1
 
 ## Display
-![Tatara Gaze](/images/displays/tatara_gaze.jpg)
+![Tatara Gaze](https://ras117mike.github.io/Destiny2/images/displays/tatara_gaze.jpg)

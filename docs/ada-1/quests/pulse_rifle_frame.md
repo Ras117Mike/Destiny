@@ -1,5 +1,5 @@
 # Blast Furnace (Kinetic Pulse Rifle) - Izanami Forge
-![Blast Furnace](/images/icons/blast_furnace.jpg)
+![Blast Furnace](https://ras117mike.github.io/Destiny2/images/icons/blast_furnace.jpg)
 
 **Forged in the hottest fires.**
 
@@ -11,7 +11,7 @@ Stability | 68 | Zoom | 18
 Handling | 32 | Recoil | 65
 Reload Speed | 42 | Bounce Intensity | 35
 Rounds Per Minute | 450 | Bounce Direction | Tends Vertical
-Magazine | 39 |  | 
+Magazine | 39 |  |
 
 **Random Perks: This item cannot be reacquired from Collections.**
 
@@ -75,4 +75,4 @@ Magazine | 39 |  |
 * Forge ignition completed:1
 
 ## Display
-![Blast Furnace](/images/displays/blast_furnace.jpg)
+![Blast Furnace](https://ras117mike.github.io/Destiny2/images/displays/blast_furnace.jpg)

@@ -1,5 +1,5 @@
 # Ada-1
-<img align="right" src="/images/vendors/ada-1.png" width="150">
+<img align="right" src="https://ras117mike.github.io/Destiny2/images/vendors/ada-1.png" width="150">
 
 ## Personnel Data
 
@@ -12,7 +12,7 @@ Ada-1 takes great pride in her order, the Black Armory, finding that her wares s
 ## Location
 Ada is located in the Tower, in the Annex area. Use the span point there to launch into the Tower, head up the stairs and a short bit past the Drifter; as you get to the square area with the stairs, head left and you will see the entrance to Ada-1's Armory. You can also place a waypoint on her icon to have a marker as you move around the tower.
 
-<img src="/images/maps/ada-1_location.jpg" width="400">
+<img src="https://ras117mike.github.io/Destiny2/images/maps/ada-1_location.jpg" width="400">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZuVmmBHL5-w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Sources

@@ -3,7 +3,7 @@
 
 | Logo | Crest| Description |
 |------|------|-------------|
-| ![Titan Logo](https://ras117mike.github.io/Destiny2/images/icons/class_titan.svg) | <img align="right" src="https://ras117mike.github.io/Destiny2/images/icons/titan_class_crest.webp" width="100"> | You hail from a long line of heroes, forged from strength and sacrifice. Our enemies may be deadly and merciless, but so are you. Disciplined and proud, Titans are capable of both aggressive assaults and stalwart defenses. |
+| ![Titan Logo](https://ras117mike.github.io/Destiny2/images/icons/titan_class_icon.svg) | <img align="right" src="https://ras117mike.github.io/Destiny2/images/icons/titan_class_crest.webp" width="100"> | You hail from a long line of heroes, forged from strength and sacrifice. Our enemies may be deadly and merciless, but so are you. Disciplined and proud, Titans are capable of both aggressive assaults and stalwart defenses. |
 
 ## Subclass Abilities
 | Item | Arc | Solar | Void |

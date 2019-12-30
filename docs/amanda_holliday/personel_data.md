@@ -1,5 +1,5 @@
 # Amanda Holliday
-<img align="right" src="/images/vendors/amanda_holliday.png" width="150">
+<img align="right" src="https://ras117mike.github.io/Destiny2/images/vendors/amanda_holliday.png" width="150">
 
 ## Personnel Data
 Amanda Holliday is a human shipwright and pilot found in the Tower's hangar. She repairs Guardians' personal spaceships, as well as sells new ships and Sparrows. Amanda is also involved in organizing the Sparrow Racing League and works closely with the SRL pilots to upgrade their Sparrows and experiment with new designs.
@@ -15,7 +15,7 @@ Amanda was critical in the Taken war as she outfitted Eris Morn's ship with stea
 Amanda is typically very jovial and sarcastic. She gets along well with Cayde-6, as both are willing to bend or break the Vanguard's rules to get tasks done. While on Titan, Amanda's personality seems to undergo a slight change as she appears somewhat subdued and even reluctant to take part in missions. This may be due to shock at having lost the City, and having seen so many Lightless Guardians fall. She recovers following the reclamation of the Last City from the Red Legion.
 
 ## Location
-<img src="/images/maps/amanda_holliday_location.jpg" width="400">
+<img src="https://ras117mike.github.io/Destiny2/images/maps/amanda_holliday_location.jpg" width="400">
 
 ### Sources
 * [Destinypedia](https://www.destinypedia.com/Amanda_Holliday)
