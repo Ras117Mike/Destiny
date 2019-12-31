@@ -70,11 +70,301 @@
 | Let Them Eat Rice Cakes | Find and feed all the rabbits on the Moon. |  |
 | Wandering Nightmares | Find and defeat powerful Nightmares unleashed to wander the Moon. | <img src="https://bungie.net/common/destiny2_content/icons/e803bdf77cb6657009edd8017c0cff9b.jpg" width="30"> |
 
-##
-<img align="right" src="" height="75">
+## Undying
+<img align="right" src="https://www.bungie.net/common/destiny2_content/icons/DestinyPresentationNodeDefinition_e3980373b7413cc833f573b8077b4a6e.png" height="75">
 
-* <img src="" width="30">
-*
+* Complete all Triumphs for Season of the Undying.
+* Grants Title: Undying
+
+| Name | Requirement | Grants |
+|------|-------------|--------|
+| Season of the Undying | Complete the associated badge on the Collections screen in order to claim this Triumph. |  |
+| The Front Lines | In the Vex Offensive, complete encounters (100) and close the warp gate (3). Successful encounter completions grant the most efficient progress. |  |
+| Final Assault | In the Vex Offensive, defeat the Undying Mind. (3) |  |
+| Perfect Assault | In the Vex Offensive, close the warp gate without dying. (3) |  |
+| Offensive Expert | In the Vex Offensive, land final blows with Hand Cannons (500), Submachine Guns (500), Bows (500), Fusion Rifles (500), and Auto Rifles (500). Challenging enemies grant the most efficient progress. |  |
+| Offensive Tactician | In the Vex Offensive, get multikills with Submachine Guns (200), Fusion Rifles (150), and Auto Rifles (200). |  |
+| Offensive Sharpshooter |  In the Vex Offensive, land precision final blows with Hand Cannons (100) and Bows. (100) |  |
+| Offensive Finisher | In the Vex Offensive, defeat enemies using finishers (100). Challenging enemies grant the most efficient progress. |  |
+| Operative | As a fireteam, destroy Oracles (100) in the Vex Offensive. |  |
+| Over the Moon | In Season 8, defeat Vex Overlords on Earth's Moon in Archer's Line, Hellmouth, and Anchor of Light. |  |
+| Lunar Fashion | In Season 8, complete public events (10) on Earth's Moon while wearing a full set of seasonal armor. |  |
+| Moonlight Crescendo | In Season 8, defeat enemies on the Moon with finishers (100). Challenging enemies grant the most efficient progress. |  |
+| Dark Side of the Moon | In Season 8, defeat enemies on Earth's Moon using Void abilities. Melee (300), Grenade (400), Super (300) |  |
+| Crater Spark | In Season 8, defeat enemies on Earth's Moon using Arc abilities. Melee (300), Grenade (400), Super (300) |  |
+
+## A Shadow Rises
+<img align="right" src="https://www.bungie.net/common/destiny2_content/icons/DestinyPresentationNodeDefinition_40a39e5774d2b4079bf1c26a0b498e52.png" height="75">
+
+* Complete all Season of Opulence Triumphs.
+* GRANTS TITLE: Shadow
+
+| Name | Requirement | Grants |
+|------|-------------|--------|
+| Mint in Box | Earn the Season of Opulence collections badge. |  |
+| Treasure Hunt | Complete Werner 99-40's weekly bounties. (16) | <img src="https://www.bungie.net/common/destiny2_content/icons/0fc4c88065f64d19c94c962961cf84f2.jpg" width="30"> |
+| Like Clockwork | Complete a run through the Menagerie without running out of time in any encounter. | <img src="https://www.bungie.net/common/destiny2_content/icons/0fc4c88065f64d19c94c962961cf84f2.jpg" width="30"> |
+| Imperial Finery | Complete a run through the Menagerie in a complete set of Opulent gear. | <img src="https://www.bungie.net/common/destiny2_content/icons/0fc4c88065f64d19c94c962961cf84f2.jpg" width="30"> |
+| Prize(d) Fighter | Defeat Arunak, Beloved by Calus. | <img src="https://www.bungie.net/common/destiny2_content/icons/0fc4c88065f64d19c94c962961cf84f2.jpg" width="30"> |
+| Flair For Drama | Defeat Hasapiko, Beloved by Calus. | <img src="https://www.bungie.net/common/destiny2_content/icons/0fc4c88065f64d19c94c962961cf84f2.jpg" width="30"> |
+| Sweet and Shy | Defeat Pagouri, Beloved by Calus. | <img src="https://www.bungie.net/common/destiny2_content/icons/0fc4c88065f64d19c94c962961cf84f2.jpg" width="30"> |
+| The Hunted Becomes The… | Complete "The Hunted" in the Menagerie with time left on the clock. | <img src="https://www.bungie.net/common/destiny2_content/icons/0fc4c88065f64d19c94c962961cf84f2.jpg" width="30"> |
+| Parry, Strike, Parry | Complete "The Riposte" in the Menagerie with time left on the clock. | <img src="https://www.bungie.net/common/destiny2_content/icons/0fc4c88065f64d19c94c962961cf84f2.jpg" width="30"> |
+| Going the Distance | Get a perfect score in "The Gauntlet" by having all six players complete every lap before time runs out. | <img src="https://www.bungie.net/common/destiny2_content/icons/0fc4c88065f64d19c94c962961cf84f2.jpg" width="30"> |
+| Safe Haven | Defeat the Ogres in "The Mockery" in the Menagerie with all three havens preserved. | <img src="https://www.bungie.net/common/destiny2_content/icons/0fc4c88065f64d19c94c962961cf84f2.jpg" width="30"> |
+| Faster than Lightning | Complete "The Arkborn" in the Menagerie with time left on the clock. | <img src="https://www.bungie.net/common/destiny2_content/icons/0fc4c88065f64d19c94c962961cf84f2.jpg" width="30"> |
+| Time Manipulation | Complete "The Crystals" in the Menagerie with time left on the clock. | <img src="https://www.bungie.net/common/destiny2_content/icons/0fc4c88065f64d19c94c962961cf84f2.jpg" width="30"> |
+| Rolling Deep | Slot runes in your Chalice to collect rewards from the Menagerie. | <img src="https://www.bungie.net/common/destiny2_content/icons/0fc4c88065f64d19c94c962961cf84f2.jpg" width="30"> <img src="https://www.bungie.net/common/destiny2_content/icons/9e061ffb762ed349c2acf14adee00294.jpg" width="30"> |
+| Lambs to the Slaughter | During a Heroic Menagerie run, defeat Pagouri without allowing any fireteam member to die. | <img src="https://www.bungie.net/common/destiny2_content/icons/0fc4c88065f64d19c94c962961cf84f2.jpg" width="30"> |
+| Break a Leg | During a Heroic Menagerie run, defeat Hasapiko without allowing any fireteam member to die. | <img src="https://www.bungie.net/common/destiny2_content/icons/0fc4c88065f64d19c94c962961cf84f2.jpg" width="30"> |
+| Uncontrolled Rage | During a Heroic Menagerie run, defeat Arunak without allowing any fireteam member to die. | <img src="https://www.bungie.net/common/destiny2_content/icons/0fc4c88065f64d19c94c962961cf84f2.jpg" width="30"> |
+| Crown of Ease | Complete the flawless version of the "Crown of Sorrow" raid. |  |
+| Lost in the Kingdom of Sorrow | Loot the chest at the top of the Pinnacle in the "Crown of Sorrow" raid 5 times. |  |
+| I'm Not Superstitious | Complete every encounter in the "Crown of Sorrow" raid with no Guardian receiving the Witch's Curse debuff. | <img src="https://www.bungie.net/common/destiny2_content/icons/9d647709892eaaa29b2d51923618512f.jpg" width="30"> |
+| Limited Blessings | Complete the Limited Blessings challenge. |  |
+| Total Victory | Complete the Total Victory challenge. |  |
+| With Both Hands | Complete the With Both Hands challenge. |  |
+
+## Moments of Triumph: MMXIX
+<img align="right" src="https://www.bungie.net/common/destiny2_content/icons/DestinyPresentationNodeDefinition_2fd436d5286dba34ff15d5b43fc1a453.png" height="75">
+
+* Complete these feats of strength **before 9/17/2019** to claim your unique rewards.
+* GRANTS TITLE: MMXIX
+
+| Name | Requirement | Grants |
+|------|-------------|--------|
+| Bungie Rewards Triumph Shirt Available |  |  |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+
+## Reckoner
+<img align="right" src="https://www.bungie.net/common/destiny2_content/icons/DestinyPresentationNodeDefinition_a419acc658c693d36f925db51357540a.png" height="75">
+
+* Complete all Jokers Wild Triumphs.
+* GRANTS TITLE: Reckoner
+
+| Name | Requirement | Grants |
+|------|-------------|--------|
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+
+## Black Armory
+<img align="right" src="https://www.bungie.net/common/destiny2_content/icons/DestinyPresentationNodeDefinition_67a763b4c8ffa6d9747bc859e673dea6.png" height="75">
+
+* Complete all Black Armory Triumphs.
+* GRANTS TITLE: Blacksmith
+
+| Name | Requirement | Grants |
+|------|-------------|--------|
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+
+## Crucible
+<img align="right" src="https://www.bungie.net/common/destiny2_content/icons/DestinyPresentationNodeDefinition_257b160add6e8d5f48388d05857a5cc1.png" height="75">
+
+* Complete all lifetime Valor and Glory rank triumphs.
+* GRANTS TITLE: Unbroken
+
+| Name | Requirement | Grants |
+|------|-------------|--------|
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+
+## Destinations
+<img align="right" src="https://www.bungie.net/common/destiny2_content/icons/DestinyPresentationNodeDefinition_df1420c482f7575ab14447ab01f4cec0.png" height="75">
+
+* Complete all Destination Triumphs.
+* GRANTS TITLE: Wayfarer
+
+| Name | Requirement | Grants |
+|------|-------------|--------|
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+
+## Gambit
+<img align="right" src="https://www.bungie.net/common/destiny2_content/icons/DestinyPresentationNodeDefinition_a99d24dc2038820022f570c4beb41e13.png" height="75">
+
+* Complete all Gambit Triumphs.
+* GRANTS TITLE: Dredgen
+
+| Name | Requirement | Grants |
+|------|-------------|--------|
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+|  |  | <img src="" width="30"> |
+
+## Lore
+<img align="right" src="https://www.bungie.net/common/destiny2_content/icons/DestinyPresentationNodeDefinition_b90a289d173a00513b695f9408e2f316.png" height="75">
+
+* Complete all Lore Triumphs.
+* GRANTS TITLE: Chronicler
 
 | Name | Requirement | Grants |
 |------|-------------|--------|
@@ -110,331 +400,11 @@
 |  |  |  |
 |  |  |  |
 
-##
-<img align="right" src="" height="75">
+## Raids
+<img align="right" src="https://www.bungie.net/common/destiny2_content/icons/DestinyPresentationNodeDefinition_d08272ddb58d925a1eed0a36e21c178a.png" height="75">
 
-*
-*
-
-| Name | Requirement | Grants |
-|------|-------------|--------|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-
-##
-<img align="right" src="" height="75">
-
-*
-*
-
-| Name | Requirement | Grants |
-|------|-------------|--------|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-
-##
-<img align="right" src="" height="75">
-
-*
-*
-
-| Name | Requirement | Grants |
-|------|-------------|--------|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-
-##
-<img align="right" src="" height="75">
-
-*
-*
-
-| Name | Requirement | Grants |
-|------|-------------|--------|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-
-##
-<img align="right" src="" height="75">
-
-*
-*
-
-| Name | Requirement | Grants |
-|------|-------------|--------|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-
-##
-<img align="right" src="" height="75">
-
-*
-*
-
-| Name | Requirement | Grants |
-|------|-------------|--------|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-
-##
-<img align="right" src="" height="75">
-
-*
-*
-
-| Name | Requirement | Grants |
-|------|-------------|--------|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-
-##
-<img align="right" src="" height="75">
-
-*
-*
-
-| Name | Requirement | Grants |
-|------|-------------|--------|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-
-##
-<img align="right" src="" height="75">
-
-*
-*
+* Complete all Raid Triumphs.
+* GRANTS TITLE: Rivensbane
 
 | Name | Requirement | Grants |
 |------|-------------|--------|

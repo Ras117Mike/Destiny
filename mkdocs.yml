@@ -10,6 +10,11 @@ copyright: 'Copyright &copy; 2019 - Present'
 nav:
   - Home: index.md
   - Story Line: story_line.md
+  - Enemies:
+    - The Cabal: the_cabal.md
+    - The Fallen: the_fallen.md
+    - The Hive: the_hive.md
+    - The Vex: the_vex.md
   - Seals: legend_seals.md
   # <!-- START DESTINY 2 MATERIAL -->
   - Classes:
