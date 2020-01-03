@@ -260,7 +260,7 @@ theme:
     accent: 'green'
 
 extra_css:
-  - 'stylesheets/extra.css'
+  - 'https://ras117mike.github.io/Destiny2/stylesheets/extra.css'
 
 # Social
 extra:
