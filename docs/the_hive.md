@@ -9,7 +9,7 @@ While in the deep, they discovered that the Syzygy was real and had struck the p
 It is here that the three sisters became the first Hive: Xi Ro took the Knight morph and became Xivu Arath, Sathona took the Mother morph and became Savathûn, and Aurash took the King morph, transforming into a male and became Auryx, the King of the Hive.
 
 ## Royal Family Tree
-<img src="/images/general/hive_family_tree.png">
+<img src="https://ras117mike.github.io/Destiny2/images/general/hive_family_tree.png">
 
 ## Osmium King
 No known image of the king is available. King of the Osmium Court and father of all the hive humanity has known. He kept a dead white worm that washed up on the shore. It is said that the worm guided the King, in his old age he became senile and obsessed over Fundaments Moon aligning and causing a Syzygy that would create a tidal wave so immense that it would destroy all of Fundaments civilizations.
