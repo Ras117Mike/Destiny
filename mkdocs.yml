@@ -259,8 +259,8 @@ theme:
     primary: 'light green'
     accent: 'green'
 
-#extra_css:
-#  - 'stylesheets/extra.css'
+extra_css:
+  - 'stylesheets/extra.css'
 
 # Social
 extra:

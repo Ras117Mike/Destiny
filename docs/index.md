@@ -22,7 +22,7 @@ Gaul consumes so much light that he turns into what seems to be a giant light Ca
 Following Ghaul's defeat, a massive Cabal ship called the Leviathan appears in orbit of Nessus, under the control of the exiled Emperor Calus. Calus invites Guardians to complete a series of challenges before reaching his throne room. You and a fireteam of other Guardians complete his challenges before facing Calus himself; however, after overcoming his strange powers and defeating him, you discover that you were fighting a mechanical doppelganger. The real Calus speaks through the machine, claiming that what you know is a lie and that there is a truth beyond what the Speaker had told you.
 
 <figure>
-  <img src="https://cdna.artstation.com/p/assets/images/images/001/257/788/large/dorje-bellbrook-db-destiny-194.jpg" alt="Pyramid Ship" style="width:100%">
+  <img src="https://cdnb.artstation.com/p/assets/images/images/021/356/831/large/roderick-weise-panoptes-front.jpg?" alt="Panoptes" style="width:100%">
   <figcaption>Panoptes by <a href="https://www.artstation.com/roderickweise">Roderick Weise</a> on artstation.com</figcaption>
 </figure>
 

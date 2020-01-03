@@ -1,8 +1,13 @@
-.md-sidebar--secondary {
-  display: none;
+.md-grid {
+    max-width: 80rem;
 }
-@media only screen and (min-width: 60em) {
-  .md-content {
-    margin-right: 0;
+@media only screen and (80em) {
+  .md-main__inner {
+    max-width: 150rem;
+  }
+  .md-sidebar--secondary {
+    margin-left: 0rem;
+      -webkit-transform: none;
+      transform: none;
   }
 }
