@@ -22,7 +22,7 @@ Gaul consumes so much light that he turns into what seems to be a giant light Ca
 Following Ghaul's defeat, a massive Cabal ship called the Leviathan appears in orbit of Nessus, under the control of the exiled Emperor Calus. Calus invites Guardians to complete a series of challenges before reaching his throne room. You and a fireteam of other Guardians complete his challenges before facing Calus himself; however, after overcoming his strange powers and defeating him, you discover that you were fighting a mechanical doppelganger. The real Calus speaks through the machine, claiming that what you know is a lie and that there is a truth beyond what the Speaker had told you.
 
 <figure>
-  <img src="https://cdnb.artstation.com/p/assets/images/021/356/831/large/roderick-weise-panoptes-front.jpg?1571346292" alt="Pyramid Ship" style="width:100%">
+  <img src="https://cdnb.artstation.com/p/assets/images/021/356/831/large/roderick-weise-panoptes-front.jpg" alt="Pyramid Ship" style="width:100%">
   <figcaption>Panoptes by <a href="https://www.artstation.com/roderickweise">Roderick Weise</a> on artstation.com</figcaption>
 </figure>
 
@@ -31,7 +31,7 @@ With what seemed like no time at all, Ikora gets word from Osiris that the Vex a
 Ana Bray -a Guardian- headed to Mars during the battle of Twilight Gap to investigate her past and her connection to Clovis Bray, the Braytech Company and her past. After defeating Panoptese, you get a distress signal from Mars and we travel to investigate, we meet up with Ana and go through a series of missions to fight back the Cabal and Hive there. During these missions we learn of Oryx's other son Nokris and the Worm God Xol. Together with Ana, you access the Warmind's vault on Mars, yes the very Rasputin we've been hearing about since Destiny 1 and defeat both Nokris and Xol.
 
 <figure>
-  <img src="https://cdna.artstation.com/p/assets/images/010/707/110/large/joseph-biwald-d2-dlcii-warmind-wallpaper-4k.jpg?1525803754" alt="Warmind" style="width:100%">
+  <img src="https://cdna.artstation.com/p/assets/images/010/707/110/large/joseph-biwald-d2-dlcii-warmind-wallpaper-4k.jpg" alt="Warmind" style="width:100%">
   <figcaption>Warmind by <a href="https://www.artstation.com/josephbiwald">Joseph Biwald</a> on artstation.com</figcaption>
 </figure>
 
@@ -44,14 +44,14 @@ You go on a series of missions to avange Cayde-6 since Zavala refuses to fight b
 You then learn about Riven and set off on a quest to kill it. After defeating Riven, a three week curse cycle is unleashed on the Dreaming City that is yet to be broken.
 
 <figure>
-  <img src="https://cdna.artstation.com/p/assets/images/012/826/520/large/ethan-scheu-forsaken-02.jpg?1536711750" alt="Dreaming City Towers" style="width:100%">
+  <img src="https://cdna.artstation.com/p/assets/images/012/826/520/large/ethan-scheu-forsaken-02.jpg" alt="Dreaming City Towers" style="width:100%">
   <figcaption>Dreaming City Towers by <a href="https://www.artstation.com/escheu">Ethan Scheu</a> on artstation.com</figcaption>
 </figure>
 
 As the Traveler awoken at the end of the Red War, he releases a pulse of light that travels through the Solar System and awakens a fleet of Pyramid ships. After the events of the Dreaming City and defeating Uldren, Voice of Riven and Riven, you get a distress call about a new disturbance on the moon and are called to action by Ikora Rey about a Scarlet Keep, a tower that the Hive built on the Moon. Turns out Eris headed to the Moon and was doing some investigations of her own, here she found one of the Pyramid ships under the surface of the Moon.
 
 <figure>
-  <img src="https://cdna.artstation.com/p/assets/images/001/257/788/large/dorje-bellbrook-db-destiny-194.jpg?1443927684" alt="Pyramid Ships" style="width:100%">
+  <img src="https://cdna.artstation.com/p/assets/images/001/257/788/large/dorje-bellbrook-db-destiny-194.jpg" alt="Pyramid Ships" style="width:100%">
   <figcaption>Pyramid Ships by <a href="https://www.artstation.com/dorje">Dorje Bellbrook</a> on artstation.com</figcaption>
 </figure>
 
@@ -60,14 +60,14 @@ As you headed to the Pyramid ship to investigate, you hit a barrier and a red ma
 Enter Hashladûn, Crota's daughter who built the Scarlet Keep to harness the powers of the Darkness to avenge her father's death. You are sent on a series of missions by Eris to reconstruct a set of armor that will grant you access to the Pyramid ship. After killing several nightmares, you are sent into the Scarlet Keep to acquire a Hive Relic that allows you to unlock special gear. After collecting equipment you make it into the ship where you pass through the corridors and have to defeat Nightmares of Crota, Fikrul and Gaul.
 
 <figure>
-  <img src="https://cdnb.artstation.com/p/assets/images/021/175/229/large/kyoungche-kim-hive-05.jpg?1570663009" alt="The Scarlet Keep" style="width:100%">
+  <img src="https://cdnb.artstation.com/p/assets/images/021/175/229/large/kyoungche-kim-hive-05.jpg" alt="The Scarlet Keep" style="width:100%">
   <figcaption>The Scarlet Keep by <a href="https://www.artstation.com/entheosche">Kyoungche Kim</a> on artstation.com</figcaption>
 </figure>
 
 After defeating all three Nightmares, you make it to a room where you are offered an Artifact which causes you to have a vision of the Black Garden where an image of yourself appears to you along with multiple Pyramid Ships and you are told that the are your Salvation. Ikora and Eris think that this is a message from the Darkness that they are planning to attack and bring on another collapse.
 
 <figure>
-  <img src="https://cdnb.artstation.com/p/assets/images/022/124/099/large/roderick-weise-undying-mind-front.jpg?1574195523" alt="Undying Mind" style="width:100%">
+  <img src="https://cdnb.artstation.com/p/assets/images/022/124/099/large/roderick-weise-undying-mind-front.jpg" alt="Undying Mind" style="width:100%">
   <figcaption>Undying Mind by <a href="https://www.artstation.com/roderickweise">Roderick Weise</a> on artstation.com</figcaption>
 </figure>
 
