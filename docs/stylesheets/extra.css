@@ -4,3 +4,7 @@
 .md-sidebar--secondary {
   margin-left: 80rem;
 }
+
+.md-typeset .md-typeset__table {
+  min-width: 100%;
+}
