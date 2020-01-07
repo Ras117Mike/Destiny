@@ -15,7 +15,7 @@ Players assume the role of a Guardian, protectors of Earth's last safe city that
 
 Destiny 2 is set one year after the SIVA Crisis that closed off Destiny 1. The story starts off with the Red Legion, let by Dominus Ghaul, launching a massive attack on the Last City, destroying the Tower and attaching a device on the Traveler that starts draining the Light, thereby taking it away from Guardians  and their Ghosts leaving Guardians and humanity at the mercy of the Cabal. You follow a vision to a shard of the Traveler where your Ghost interfaces with it and both Ghost's and your light are restored. After reuniting Zavala, Cayde, Ikora and other Guardians;you bring down The Amighty, a solar system destroying ship that the Cabal has pointed at the Sun as an "Insurance Policy"; the Cabal either conquer a system or destory it completely.
 
-<iframe width="800" height="425" src="https://www.youtube.com/embed/U3bgemE-YnA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/U3bgemE-YnA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Gaul consumes so much light that he turns into what seems to be a giant light Cabal, it is at this point that the Traveler awakens and destorys Gaul and returns the Light to Guardians all over the system.
 
@@ -37,7 +37,7 @@ Ana Bray -a Guardian- headed to Mars during the battle of Twilight Gap to invest
 
 And just when you thought you could kick back a bit, word from the Prison of Elders was that there was a breakout and together with Cayde-6 you head the the Reef and meet up with Petra Venj. It is here that you learn that a new race called the Scorned has formed, while trying to bring order to the chaos Cayde-6 is killed with his own gun -Ace of Sades- by Prince Uldren Sov. Uldren is aided by Fikrul and his band of Scorned Barons.
 
-<iframe width="800" height="425" src="https://www.youtube.com/embed/Qy1KWyDDM2U?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/Qy1KWyDDM2U?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 You go on a series of missions to avange Cayde-6 since Zavala refuses to fight back in fear of loosing more friends, you meet up with the Spider who helps you along at the Tangled Shore as you find and kill each Baron on your way to Uldren. During the hunt for Uldren, you are taken to The Dreaming City by Petra Venj where you learn that Uldren was swallowed by the Voice of Riven. You kill it and release Uldren and this chapter ends in a cliff hanger not knowing if it was your bullet or Petra's that killed Uldren.
 
@@ -75,7 +75,7 @@ This all shoved aside tho as you get word about the Vex have resurrected the Und
 
 After stopping the Vex invasion and destroying the Undying Mind, you get more word from Osiris on Mercury that the Cabal found his Sundial and are using it to find a timeline where the Red Legion wins the Red War so they can change the timeline to suit them. It is where you currently find yourself fighting along side Legendary Guardian Saint-14 after you travel through time to resurrect him.
 
-<iframe width="800" height="425" src="https://www.youtube.com/embed/iVZ-G88rOYg?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/iVZ-G88rOYg?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Your story goes on Guardian...
 
@@ -117,4 +117,4 @@ Your story goes on Guardian...
 * **The Tower**: Social Space, home to Kadi55-30 (The postmaster), Eververse, Master Rahool (Cryptarch), Ikora Ray (Warlock Vanguard), Zavala (Titan Vanguard), Lord Shaxx (Crucible Handler), Banshee-44 (Gunsmith), Suraya Hawthorne (Clan Handler), The Drifter (Gambit Handler), ADA-1 (Black Amory Handler), Benedict99-40 (The Leviathan + Season of Opulence Handler), Lord Saladin (Iron Banner handler) and Xur (Agent of the IX) frequent the tower.
 
 ## The Complete Story of Destiny
-<iframe width="800" height="425" src="https://www.youtube.com/embed/9mbDXvDNqTU?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/9mbDXvDNqTU?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
