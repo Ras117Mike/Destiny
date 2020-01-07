@@ -1,9 +1,11 @@
-.md-grid {
+/* Layout Adjustments - Do not work too well */
+
+/*.md-grid {
   max-width: 90rem;
 }
 .md-sidebar--secondary {
   margin-left: 90rem;
-}
+}*/
 
 .md-typeset .md-typeset__table {
   min-width: 100%;
