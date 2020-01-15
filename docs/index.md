@@ -3,7 +3,7 @@
     This site is still a work in progress, some pages may not be complete as yet. Please excuse the mess.
 
 If you are new to Destiny 2 and want to know how to play the story mode, click [here](story_line.md) to see the order in which to play so you follow along chronologically.
-<img align="right" src="https://ras117mike.github.io/Destiny2/images/the_traveler.png" height="300">
+<img align="right" src="https://raw.githubusercontent.com/Ras117Mike/Destiny2/gh-pages/images//the_traveler.png" height="300">
 
 ## Information and Guides for the Destiny Games
 
@@ -11,7 +11,7 @@ If you are new to Destiny 2 and want to know how to play the story mode, click [
 Destiny 2 is an online-only multiplayer first-person shooter video game developed by Bungie. Like in Destiny 1, activities are divided among player versus environment (PvE) and player versus player (PvP) game types. The game features normal story missions, three-player "strikes" and six-player raids, free roam patrol mode for each planet, public events and more seasonal activities.
 
 ## Overview and Introduction
-Players assume the role of a Guardian, protectors of Earth's last safe city that wield a power called the Light to protect humanity from different alien races. Destiny 2 features the same three character classes as the original Destiny. Each class has their own specific upgrades, perks, special abilities, and three sub-classes that allow players to finely tune their individual characters to provide a different play style. The three classes are Warlock, Hunter, and Titan and three species for their character: Human, Awoken, or Exo. You can have a total of three Characters.<img align="right" src="https://ras117mike.github.io/Destiny2/images/general/dominus_ghaul.png" height="300">
+Players assume the role of a Guardian, protectors of Earth's last safe city that wield a power called the Light to protect humanity from different alien races. Destiny 2 features the same three character classes as the original Destiny. Each class has their own specific upgrades, perks, special abilities, and three sub-classes that allow players to finely tune their individual characters to provide a different play style. The three classes are Warlock, Hunter, and Titan and three species for their character: Human, Awoken, or Exo. You can have a total of three Characters.<img align="right" src="https://raw.githubusercontent.com/Ras117Mike/Destiny2/gh-pages/images//general/dominus_ghaul.png" height="300">
 
 Destiny 2 is set one year after the SIVA Crisis that closed off Destiny 1. The story starts off with the Red Legion, let by Dominus Ghaul, launching a massive attack on the Last City, destroying the Tower and attaching a device on the Traveler that starts draining the Light, thereby taking it away from Guardians  and their Ghosts leaving Guardians and humanity at the mercy of the Cabal. You follow a vision to a shard of the Traveler where your Ghost interfaces with it and both Ghost's and your light are restored. After reuniting Zavala, Cayde, Ikora and other Guardians;you bring down The Amighty, a solar system destroying ship that the Cabal has pointed at the Sun as an "Insurance Policy"; the Cabal either conquer a system or destory it completely.
 
@@ -83,24 +83,24 @@ Your story goes on Guardian...
 
 | Arc | Solar | Void |
 |-----|-------|------|
-| <img src="https://ras117mike.github.io/Destiny2/images/icons/class_arc_icon.png" height="60"><p>_"A spark can give life...or take it."_  | <img src="https://ras117mike.github.io/Destiny2/images/icons/class_solar_icon.png" height="60"><p>_"Sometimes the only answer is to burn it all away."_ | <img src="https://ras117mike.github.io/Destiny2/images/icons/class_void_icon.png" height="60"><p>_"It's fitting, then, that we have weaponized the unknown."_ |
+| <img src="https://raw.githubusercontent.com/Ras117Mike/Destiny2/gh-pages/images//icons/class_arc_icon.png" height="60"><p>_"A spark can give life...or take it."_  | <img src="https://raw.githubusercontent.com/Ras117Mike/Destiny2/gh-pages/images//icons/class_solar_icon.png" height="60"><p>_"Sometimes the only answer is to burn it all away."_ | <img src="https://raw.githubusercontent.com/Ras117Mike/Destiny2/gh-pages/images//icons/class_void_icon.png" height="60"><p>_"It's fitting, then, that we have weaponized the unknown."_ |
 
 
 ## Destiny 2 Timeline
 
-| Logo | Name | Release Date | Type |
-|------|------|--------------|------|
-| <img src="https://bungie.net/common/destiny2_content/icons/0cf60cd5d931be924fd2a627fec57c3f.jpg" height="80"> | The Red War | September 2017 | Base Game |
-| <img src="https://bungie.net/common/destiny2_content/icons/5252efea5fed77119f531c3ae5b9f25f.jpg" height="80"> | Curse of Osiris | December 2017 | DLC |
-| <img src="https://bungie.net/common/destiny2_content/icons/6e72a6f7ca4a7f473ebd9b45eb64d8b6.jpg" height="80"> | Warmind | May 2018 | DLC |
-| <img src="https://bungie.net/common/destiny2_content/icons/81658df3c313b5d7b349f868d7caf7ca.jpg" height="80"> | Forsaken | September 2018 | DLC |
-| <img src="https://ras117mike.github.io/Destiny2/images/icons/season_of_forge_icon.png" height="80"> | Season of the Forge | December 2018 | Season |
-| <img src="https://ras117mike.github.io/Destiny2/images/icons/season_of_drifter_icon.png" height="80"> | Season of the Drifter | March 2019 | Season |
-| <img src="https://ras117mike.github.io/Destiny2/images/icons/season_of_opulence_icon.png" height="80"> | Season of Opulence | June 2019 | Season |
-| <img src="https://bungie.net/common/destiny2_content/icons/1a604037275035063f489ab788b1686a.jpg" height="80"> | Shadowkeep | October 2019 | DLC |
-| <img src="https://ras117mike.github.io/Destiny2/images/icons/season_of_undying_icon.png" height="80"> | Season of the Undying | October 2019 | Season |
-| <img src="https://ras117mike.github.io/Destiny2/images/icons/season_of_dawn_icon.png" height="80"> | Season of Dawn | December 2019 | Season |
-
+| Logo | Icon | Name | Release Date | Type |
+|------|------|------|--------------|------|
+| <img src="https://bungie.net/common/destiny2_content/icons/0cf60cd5d931be924fd2a627fec57c3f.jpg" height="80"> |  | The Red War | September 2017 | Base Game |
+| <img src="https://bungie.net/common/destiny2_content/icons/5252efea5fed77119f531c3ae5b9f25f.jpg" height="80"> |  | Curse of Osiris | December 2017 | DLC |
+| <img src="https://bungie.net/common/destiny2_content/icons/6e72a6f7ca4a7f473ebd9b45eb64d8b6.jpg" height="80"> |  | Warmind | May 2018 | DLC |
+| <img src="https://bungie.net/common/destiny2_content/icons/81658df3c313b5d7b349f868d7caf7ca.jpg" height="80"> |  | Forsaken | September 2018 | DLC |
+|  | <img src="https://raw.githubusercontent.com/Ras117Mike/Destiny2/gh-pages/images//icons/season_of_forge_icon.png" height="50"> | Season of the Forge | December 2018 | Season |
+|  | <img src="https://raw.githubusercontent.com/Ras117Mike/Destiny2/gh-pages/images//icons/season_of_drifter_icon.png" height="50"> | Season of the Drifter | March 2019 | Season |
+|  | <img src="https://raw.githubusercontent.com/Ras117Mike/Destiny2/gh-pages/images//icons/season_of_opulence_icon.png" height="50"> |  | Season of Opulence | June 2019 | Season |
+| <img src="https://bungie.net/common/destiny2_content/icons/1a604037275035063f489ab788b1686a.jpg" height="80"> |  | Shadowkeep | October 2019 | DLC |
+|  | <img src="https://raw.githubusercontent.com/Ras117Mike/Destiny2/gh-pages/images//icons/season_of_undying_icon.png" height="50"> | Season of the Undying | October 2019 | Season |
+|  | <img src="https://raw.githubusercontent.com/Ras117Mike/Destiny2/gh-pages/images//icons/season_of_dawn_icon.png" height="50"> | Season of Dawn | December 2019 | Season |
+|  |  |  |  |  |
 
 ## Destinations
 
