@@ -7,6 +7,156 @@
   margin-left: 90rem;
 }*/
 
-.md-typeset .md-typeset__table {
+
+div.clearfix {
+  text-align:center;
+  font-size:20px;
+  text-transform:uppercase;
+}
+div.chunk-container>a>div.clearfix>img {
+  max-width:206px;
+  filter:drop-shadow(1px 1px 0.5px #222222);
+  margin-bottom:20px;
+  max-height:126px
+}
+
+.tb_icon {
+  height: 50px;
+  vertical-align: middle;
+}
+
+.legend_icon {
+  width: 70px;
+  vertical-align: middle;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.bkg {
+  height: 50px;
+  width: 50px;
+  background-color: #000;
+  border-radius: 5%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Table */
+.md-typeset__table {
   min-width: 100%;
+}
+
+th {
+  font-weight: bold;
+  text-align: center !important;
+  text-transform: uppercase;
+}
+
+td.legendary {
+  background-color:#522f65;
+  color: #FFF;
+}
+
+/* Colors */
+.dawn_dark {
+  background-color:#7c40a6 !important;
+}
+.dawn_light {
+  background-color:#FDF3FD !important;
+}
+
+.garden_dark {
+  background-color:#70713c !important;
+}
+.garden_light {
+  background-color:#EAF0E4 !important;
+}
+
+.keep_dark {
+  background-color:#723a2b !important;
+}
+.keep_light {
+  background-color:#ffffd3 !important;
+}
+
+.undying_dark {
+  background-color:#6c622d !important;
+}
+.undying_light {
+  background-color:#FEFEE1 !important;
+}
+
+.shadow_dark {
+  background-color:#4B3464 !important;
+}
+.shadow_light {
+  background-color:#FBFBD4 !important;
+}
+
+.mmxix_dark {
+  background-color:#552F34 !important;
+}
+.mmxix_light {
+  background-color:#FCF6C9 !important;
+}
+
+.reckoner_dark {
+  background-color:#9370DB !important;
+}
+.reckoner_light {
+  background-color:#E6E6FA !important;
+}
+
+.armory_dark {
+  background-color:#484848 !important;
+}
+.armory_light {
+  background-color:#c6cac9 !important;
+}
+
+.crucible_dark {
+  background-color:#e82e1b !important;
+}
+.crucible_light {
+  background-color:#ffe8c7 !important;
+}
+
+.destinations_dark {
+  background-color:#8b8878 !important;
+}
+.destinations_light {
+  background-color:#FFFAF0 !important;
+}
+
+.gambit_dark {
+  background-color:#2e4626 !important;
+}
+.gambit_light {
+  background-color:#E0EFE9 !important;
+}
+
+.lore_dark {
+  background-color:#8b8878 !important;
+}
+.lore_light {
+  background-color:#FFFAF0 !important;
+}
+
+.raids_dark {
+  background-color:#8b8878 !important;
+}
+.raids_light {
+  background-color:#FFFAF0 !important;
+}
+
+.dreaming_dark {
+  background-color:#BA55D3 !important;
+}
+.dreaming_light {
+  background-color:#FAFAD2 !important;
 }
