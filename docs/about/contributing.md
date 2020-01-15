@@ -53,3 +53,6 @@ Append the following line to your project's `mkdocs.yml`:
 theme:
   name: 'material'
 ```
+
+### .gitignore
+I build on a mac, if you use a different OS, please update the gitignore file to accommodate your env.

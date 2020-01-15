@@ -1,5 +1,8 @@
 # Destiny 2 Game Play Chronology
-For those new to Destiny2, this is the order in which you should play the game to follow the story in chronological order. To pick up the missions, visit [Amanda Holliday](amanda_holliday/personel_data.md) in the Tower hangar.
+!!! Info
+    I am working on getting all the missing missions to add, please stay tuned.
+
+For those new to Destiny2, this is the order in which you should play the game to follow the story in chronological order. To pick up the legacy (Red War, Curse of Osiris, Warmind) missions, visit [Amanda Holliday](amanda_holliday/personel_data.md) in the Tower hangar.
 
 ## The Red War
 
@@ -61,7 +64,6 @@ For those new to Destiny2, this is the order in which you should play the game t
 * **Victory Enduring** - Xol has been defeated and Mars is saved. Return to Zavala for an update.
 * Raid Lair: **Spire of Stars** - Again you head to the Leviathan, only this time you do battle on top of the tower and repel the Red Legion's attack led by Val Ca'uor on Calus's ship.
 
-
 ## Forsaken
 
 * **Last Call** - Fight alongside Cayde-6 to help Petra Venj regain control of the dangerous Prison of Elders.
@@ -91,5 +93,124 @@ For those new to Destiny2, this is the order in which you should play the game t
 
 At this point you will get the **The Awoken Talisman** Quest from Spider that unlocks Dreaming City.
 
-!!! Info
-    I am working on getting the rest of the missions to add, please stay tuned.
+## Dreaming City
+
+* **** -
+* **** -
+* **** -
+* **** -
+* **** -
+* **** -
+* **** -
+* **** -
+* **** -
+* **** -
+* **** -
+* **** -
+* **** -
+* **** -
+* **** -
+* **** -
+
+## Season of the Forge
+
+* **** -
+* **** -
+* **** -
+* **** -
+* **** -
+* **** -
+* **** -
+* **** -
+* **** -
+* **** -
+* **** -
+* **** -
+* **** -
+* **** -
+* **** -
+* **** -
+
+## Season of the Drifter
+
+* **** -
+* **** -
+* **** -
+* **** -
+* **** -
+* **** -
+* **** -
+* **** -
+* **** -
+* **** -
+* **** -
+* **** -
+* **** -
+* **** -
+* **** -
+* **** -
+
+## Season of Opulence
+
+* **The Invitation** - Emperor Calus has invited you to Nessus, but you think it wise to drop in with Ikora before you go.
+* **The Invitation** - Ikora's intelligence indicates that a Cabal barge has just landed on the surface of Nessus. That lines up with Calus's promise that he sent a "gift" to Nessus for you. Locate the barge on Nessus.
+* **Cracked Chalice** - Calus, via Werner 99-40, has given you a Chalice of Opulence, an artifact that he promises will bring you great power if it is restored. Defeat Cabal on Nessus to collect lost Chalice fragments.
+* **Mended Chalice** - Prepare an adhesive to rebind the Chalice fragments. Defeat Vex on Nessus with melee damage without dying.
+* **The Invitation** - As you finish the adhesive, you receive a transmission from Werner 99-40. Recover Imperials, a currency of the Cabal Empire, from Red Legion deserters in the Conflux Lost Sector on Nessus.
+* **The Invitation** - Upgrade the Chalice by fusing it with the Imperials you recovered.
+* **The Invitation** - Ghost receives another transmission from Werner 99-40—this time with a bounty note attached. Complete the bounty from Werner 99-40.
+* **The Invitation** - Slot the rune you found in the treasure chest into the Chalice.
+* **The Invitation** - Return to Werner 99-40 on the Imperial Barge on Nessus.
+* **The Invitation** - Calus has invited you to enter his Menagerie on the Leviathan. There, he promises you'll be able to unleash the true potential of your Chalice of Opulence. Board the Leviathan and experience the Menagerie. You must loot the final chest at the end of the activity in order to progress this quest.
+* **The Invitation** - Claim your reward from the Menagerie Triumph.
+* **The Invitation** - Purchase an upgrade on the Chalice.
+* **The Invitation** - Return to Werner 99-40 on the Imperial Barge on Nessus and open the chest that awaits you.
+
+## Shadowkeep
+
+* **A Mysterious Disturbance** - Travel to the Moon and stave off the Hive resurgence alongside your fellow Guardians.
+* **Catching Up** - Find Eris Morn at the encampment in Sanctuary.
+* **In Search of Answers** - Investigate the strange Hive behavior near the Scarlet Keep.
+* **The Encroaching Nightmare** - A Nightmare of Omnigul has stormed through the lunar encampment. Return to Sanctuary to speak with Eris Morn.
+* **Essence of Despair** - Eris believes the Essence dropped by the Nightmare of Crota is a key to entering the Pyramid and learning the truth behind its presence on the Moon. Cleanse the Essence of Despair to allow Eris to learn its secrets. Complete the quest "Essence of Despair."
+* **Essence, Cleansed** - The Essence of Despair is cleansed. Its true purpose may now be uncovered. Return to Eris Morn with the Cleansed Essence.
+* **Ghosts of Our Past** - Eris used a Hive talisman of her own to create the first piece of protective armor. To pass beyond the Pyramid's warding and discover what lies within, you'll need to wear a full set of Dreambane armor. Take the first step and hunt the Nightmare of Omnigul.
+* **The Keep Looms** - Speak with Eris Morn to learn what she believes lies within the Scarlet Keep.
+* **The Scarlet Keep** - Investigate the Scarlet Keep to locate more Hive curios and discover a connection between the Hive and the Pyramid. Launch the strike "The Scarlet Keep" from the Moon on the Director.
+* **Dread Purification** - Cleanse the Essence of Anguish dropped by Omnigul. It can be viewed in the Quests tab of the Director.
+* **Another Step Closer** - Hashladûn's death has yielded information of great value: the existence of the Hive Cryptoglyph and where to find it. Return to Eris Morn with news of the Hive Cryptoglyph uncovered during the strike "The Scarlet Keep."
+* **In the Deep** - Somewhere in the horrific depths of the Hellmouth lies the Hive Cryptoglyph. With it, Eris Morn can craft further Dreambane armor for your quest to find a way inside the Pyramid. The Cryptoglyph is yours to take from the Hive… if you can.
+* **Back from the Dark** - Taking the Cryptoglyph from the Catacombs has interrupted the dark rituals planned by the Hidden Swarm… for now. With the Cryptoglyph and Eris's magic, you should be able to craft further Dreambane armor. Return to Eris Morn with the Cryptoglyph.
+* **Lectern of Enchantment** - Use the Cryptoglyph to empower the Lectern of Enchantment near Eris Morn.
+* **An Important Message** - Ikora has arrived on the Moon to see the Pyramid for herself and deliver a message. Take the portal near Eris to meet Ikora in the Enduring Abyss on the Moon.
+* **The Nightmare Cometh** - Defeat the three remaining Nightmare bosses to collect their Essences: the Essence of Fear, the Essence of Isolation, and the Essence of Pride. Each piece of Dreambane armor crafted is another step closer to entering the Pyramid and searching within for anything that can help stave off the impending threat Ikora has warned us about.
+    * **Essence of Fear** - Defeat the Nightmare of Phogoth in the Summoning Pits.
+        * To cleanse the Essence of Fear, you must defeat 100 Hive on the Moon.
+    * **Essence of Isolation** - Defeat the Nightmare of Taniks in the Temple of Crota.
+        * To cleanse the Essence of Isolation, you must defeat 100 Fallen on the Moon.
+    * **Essence of Pride** - Defeat the Nightmare of Skolas in the Traitor’s Ketch.
+        * To cleanse the Essence of Pride, you must defeat Nightmares found in Lost Sectors in the EDZ and on Titan, Nessus, and Io. _(not all Lost Sectors contain Nightmares)_
+* **The Pyramid Awaits** - You now have a full set of Dreambane armor. Return to Eris Morn for final preparations before entering the Pyramid.
+* **Beyond** - What secrets lie within the Pyramid? It sits in silence, waiting for you. Head to the Enduring Abyss, past the Pyramid's warding, and find a way inside.
+* **On the Other Side** - Return to Eris Morn with the Unknown Artifact.
+* **The Vanguard’s Take** - Share your findings from the Moon with the Vanguard leaders in the Tower.
+
+## Season of the Undying
+* **Emergent Protocol** - Ikora has asked you to report to the Moon and destroy the Vex spilling out of the Black Garden. Requires completion of the first mission of Shadowkeep available to all players on the Moon, "A Mysterious Disturbance."
+* **Eyes on the Moon** - You cut through scores of Vex on the Moon—but that most certainly won't be the last of them. Check in with Eris Morn in Sanctuary on the Moon to learn more.
+* **A World Apart** - The source of the Vex invasion lies deep within the Black Garden. We've found a way into their staging grounds; it's time to take the fight to them. Enter the Vex Offensive activity and push back the assault.
+* **The First of Many** - Return to Ikora for a closer look at the data you gathered in the Black Garden.
+
+## Season of Dawn
+
+* **Speak with Ikora Rey** - Speak with Ikora Rey in the Tower Bazaar.
+* **A Disturbance on Mercury** - Ikora believes Osiris will be able to explain the Red Legion's renewed interest in Mercury, but she can't contact him. She's sending you in her stead. Find Osiris on Mercury.
+* **Recovery Operation** - The structure of the obelisk must be repaired so it can be linked to the Sundial. Osiris believes some members of the Red Legion fled Mercury with tech pilfered from the Sundial. If you recover the components, you may be able to forge a link. Defeat Cabal on the Tangled Shore to recover Sundial Components. Cabal defeated with Solar weapons and abilities may drop additional materials.
+* **Reinforcements** - You've recovered the materials that will help connect the obelisk to the Sundial. Now, you must bring these back to the obelisk in order to modify it. Bank the recovered Sundial Components at the obelisk.
+* **Light Collection** - Now that you've modified the obelisk with tech from the Sundial, there is only one more component needed: your Light. The obelisk is not yet active, but using your Light to charge it will allow you to bring it back to full power. Charge the obelisk by defeating enemies with abilities and your Super, and by collecting Orbs of Light.
+* **Light Infusion** - You have gathered a powerful Light charge, which you can transfer to the obelisk. Once you charge the obelisk with this Light, you will restore it to its full power. Bank the Light charge you accumulated to power the obelisk.
+* **Timeline Stabilization** - You've restored the obelisk and charged it with your Light. You must finalize its activation to attune it to the temporal disturbance stemming from Mercury. Interact with the obelisk to complete its activation.
+* **A Missing Link** - The obelisk is fully functioning. All that's left is to link it to the Sundial by strengthening its power here on the Shore. Activate the Tangled Shore Obelisk's Sundial link.
+* **Visit Osiris** - Now that the link between the obelisk and the Sundial is established, Osiris needs your help within the Sundial itself. Return to Osiris at the Sundial Spire on Mercury.
+* **The Sundial** - Osiris has asked you to enter the Sundial so that he might calibrate it to you, allowing you to move across Mercury's past and future to defeat the Cabal. Enter the Sundial Arena playlist.
+* **Detached from Time** - As you left the Sundial, you found a strange object that seemed to materialize from nowhere. The object is unidentifiable, but seems to be phasing between timelines, flickering in your hands. You think Osiris may be able to help you determine its origin. Bring the phased object to Osiris at the Sundial Spire.
