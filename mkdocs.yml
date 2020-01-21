@@ -9,18 +9,19 @@ copyright: 'Copyright &copy; 2019 - Present'
 # Navigation
 nav:
   - Home: index.md
-  - Story Line: story_line.md
-  - Classes:
-    - Hunter: hunter_class.md
-    - Titan: titan_class.md
-    - Warlock: warlock_class.md
-  - Enemies:
-    - The Cabal: the_cabal.md
-    - The Fallen: the_fallen.md
-    - The Hive: the_hive.md
-    - The Scorn: the_scorn.md
-    - The Taken: the_taken.md
-    - The Vex: the_vex.md
+  - Introdcution:
+    - Story Line: story_line.md
+    - Classes:
+      - Hunter: hunter_class.md
+      - Titan: titan_class.md
+      - Warlock: warlock_class.md
+    - Enemies:
+      - The Cabal: the_cabal.md
+      - The Fallen: the_fallen.md
+      - The Hive: the_hive.md
+      - The Scorn: the_scorn.md
+      - The Taken: the_taken.md
+      - The Vex: the_vex.md
   - Quests:
     - Exotic Weapons:
       - Ace of Spades: exotics/weapons/ace_of_spades_exotic.md
@@ -169,7 +170,6 @@ nav:
       - Background: suraya_hawthorne/personel_data.md
       - Bounties: suraya_hawthorne/bounties.md
       - Items: suraya_hawthorne/items.md
-
     - The Drifter:
       - Background: the_drifter/personel_data.md
       - Bounties: the_drifter/bounties.md
@@ -186,13 +186,16 @@ nav:
 theme:
   logo: 'images/exotic_engram.svg'
   favicon: 'images/exotic_engram.ico'
+  font:
+    text: 'IBM Plex Sans'
+    code: 'IBM Plex Mono'
   name: 'material'
   palette:
     primary: 'light green'
     accent: 'green'
 
 extra_css:
-  - 'https://ras117mike.github.io/Destiny2/stylesheets/extra.css'
+  - 'stylesheets/extra.css'
 
 # Social
 extra:
