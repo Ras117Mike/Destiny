@@ -1,25 +1,5 @@
 /* Layout Adjustments - Do not work too well */
 
-/*.md-grid {
-  max-width: 90rem;
-}
-.md-sidebar--secondary {
-  margin-left: 90rem;
-}*/
-
-
-div.clearfix {
-  text-align:center;
-  font-size:20px;
-  text-transform:uppercase;
-}
-div.chunk-container>a>div.clearfix>img {
-  max-width:206px;
-  filter:drop-shadow(1px 1px 0.5px #222222);
-  margin-bottom:20px;
-  max-height:126px
-}
-
 .tb_icon {
   height: 50px;
   vertical-align: middle;
