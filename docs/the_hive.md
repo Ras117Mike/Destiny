@@ -4,10 +4,8 @@ encounter# The Hive
 
 The Hive are a species from the planet Fundament ruled by the Osmiun King. The original class were proto-Hive called krill, they had a short life-span. The king would be assassinated by the Helium Drinkers at the behest of Taox, who tutored the kings three daughters Xi Ro, Sathona, and Aurash. Aurash was the only one that he confided his fears. His daughters fled and vowed to return to claim vengence for their father. After finding a Shvubi Maelstrom ship, and taking it to the depths of Fundamet's Ocean at the behest of Sathona, they encountered the worms and made a pact with them.
 
-<figure>
-  <img src="http://conceptartworld.com/wp-content/uploads/2019/01/Destiny-2-Artwork-Grimoire-Anthology-Piotr-Jablonski-The-Three-Sisters.jpg" alt="The Three Sisters" style="width:100%">
-  <figcaption>The Three Sisters by <a href="http://conceptartworld.com/artists/piotr-jablonski/">Piotr Jabłoński</a> on conceptartworld.com</figcaption>
-</figure>
+<img src="http://conceptartworld.com/wp-content/uploads/2019/01/Destiny-2-Artwork-Grimoire-Anthology-Piotr-Jablonski-The-Three-Sisters.jpg" alt="The Three Sisters" style="width:100%">
+The Three Sisters by <a href="http://conceptartworld.com/artists/piotr-jablonski/">Piotr Jabłoński</a> on conceptartworld.com
 
 While in the deep, they discovered that the Syzygy was real and had struck the planet. Their they encountered the mythical Leviathan who warned them to turn back but they kept going to the center of Fundament where they encountered the Worm Gods Akka, the Worm of Secrets, Eir, the Keeper of Order, Ur, the Ever-Hunger, Xol, Will of the Thousands, and Yul, the Honest Worm.
 
@@ -30,20 +28,20 @@ The sisters eventually conspired to cut Oryx off his tributes by marooning him i
 
 After the defeat of Crota, Oryx made his way to the Sol system and in the rings of Saturn waged war with the Awoken. You are sent out to investigate a Cabal distress signal only to find that the Taken wad started to wage what would become known as the Taken War. You go on a series of missions to defeat Taken warriors all over the system, making your way to the Court of Oryx defeating his minions you make your way deeper into the Dreadnaught you first defeat Oryx in the Sanctum but he retreats into his Ascendent realm. You fight your way through Oryx's closest allies the Warpriest and Golgorath and killing his Deathsinger Twins you defeat Oryx using his own captured light against him.
 
-<figure>
-  <img src="http://conceptartworld.com/wp-content/uploads/2015/10/Destiny_The_Taken_King_Concept_Art_Illustration_RD03.jpg" alt="" style="width:100%">
-  <figcaption>The Taken King by <a href="http://conceptartworld.com/artists/ryan-demita/">Ryan DeMita</a> on conceptartworld.com</figcaption>
-</figure>
+<img src="http://conceptartworld.com/wp-content/uploads/2015/10/Destiny_The_Taken_King_Concept_Art_Illustration_RD03.jpg" alt="" style="width:100%">
+The Taken King by <a href="http://conceptartworld.com/artists/ryan-demita/">Ryan DeMita</a> on conceptartworld.com
 
-<figure>
-  <img src="https://cdna.artstation.com/p/assets/images/images/001/215/596/large/mark-van-haitsma-mark-van-haitsma-hive-dread-final-03.jpg" alt="" style="width:100%">
-  <figcaption>Dreadnaught by <a href="https://www.artstation.com/mvhaitsma">Mark Van Haitsma</a> on artstation.com</figcaption>
-</figure>
+<img src="https://cdna.artstation.com/p/assets/images/images/001/215/596/large/mark-van-haitsma-mark-van-haitsma-hive-dread-final-03.jpg" alt="" style="width:100%">
+<figcaption>Dreadnaught by <a href="https://www.artstation.com/mvhaitsma">Mark Van Haitsma</a> on artstation.com
 
 ### Crota
+
 Son of Oryx and Hive Prince, he is father to 4 daughters, the eldest, Hashladûn was fathered with Omnigul. Tasked with the destruction of Earth and the Traveler. Crota was raised by Oryx to be his Eater of Hope. On his path to the Sol system, he travelled to distant worlds consuming them for his father.
 
 Tricked by his aunt Savathûn, he cut opened a portal into his ascendent real and let the Vex in. The vex would create the Quria, Blade Transform to deduce the Hive's Sword Logic. Proving hard to rid, Oryx threw Crota through the portal telling him to _"Come home glorious, or die forgotten!"_  
+
+<img src="http://conceptartworld.com/wp-content/uploads/2019/01/Destiny-2-Artwork-Grimoire-Anthology-Piotr-Jablonski-Oryx-Crota.jpg" style="width:100%">
+Oryx and Crota by <a href="http://conceptartworld.com/artists/piotr-jablonski/">Piotr Jabłoński</a> on conceptartworld.com
 
 He eventually conquered the moon they launched an attack on the city called the Battle of Burning Lake. Humanity launched a counterattack on the moon, not knowing the threat looming there. Many Guardians perished at Crotas sword, this battle would come to be known as The Great Disaster.
 
@@ -51,10 +49,8 @@ Crota would ultimately meet his end at the hands of your fireteam as you ascende
 
 Crota's soul would be essential in the quest to defeat Oryx.
 
-<figure>
-  <img src="http://conceptartworld.com/wp-content/uploads/2019/01/Destiny-2-Artwork-Grimoire-Anthology-Piotr-Jablonski-Oryx-Crota.jpg" style="width:100%">
-  <figcaption>Oryx and Crota by <a href="http://conceptartworld.com/artists/piotr-jablonski/">Piotr Jabłoński</a> on site.com</figcaption>
-</figure>
+<img src="https://www.bungie.net/common/destiny_content/grimoire/hr_images/601076_e5335bacba9439569f45bbc1687823b0.jpg" style="width:100%">
+Crota
 
 #### Hashladûn
 Eldest daughter of Crota, fathered with Omnigul. She built the Scarlet Keep over the Pyramid Ship to harness it's powers and sits at the top of the Tower of Woes, luring Guardians to be killed as revenge for her family.
@@ -66,11 +62,6 @@ She is ultimately killed by you and your fireteam. She was born a larger Thrall 
 Hashladûn was sworn into Oryx's court. Guardians presumed she was dead after the raid on Crota but she reamined hidded under the Moon's surface where she and her sisters plotted revenge. Together they gathered the hive on the moon and started constructing the Scarlet Keep where they conducted experiments beneath the citadel using the Crptoglyph. The sisters devised a plan to recreate Oryx as a phantasmal Nightmare, despite knowing that they would violate the sword logic.
 
 As you were working with Eris to enter the Pyramid Ship beneath the Keep, you and your fireteam encounter Hashladûn at the bridge of the Keep and chase her through the Keep until you get to the top of the Spire. Despite her powers, like her other family members, she falls at your hands and in her remains you find evidence of the Crptoglyph hidden in the depths of the Hellmouth.
-
-<figure>
-  <img src="" alt="" style="width:100%">
-  <figcaption> by <a href="">Artist</a> on site.com</figcaption>
-</figure>
 
 #### Besurith
 Daughter of Crota, she works along side Hashladûn to replace Oryx. She met her demise at your hands during the In the Deep mission trying to protect the Hive artifact in the Catacombs.
@@ -85,13 +76,13 @@ Daughter of Crota, there is no data currently known about her.
 
 Deathsinger daughter of Oryx, created after he cut a worm in half with his sword, the Willbreaker. She was killed in the King's Fall Raid where you and your fireteam laid waster to Oryx. Together with Ir Anûk they devise the Oversoul.
 
-![Ir Halak](https://raw.githubusercontent.com/Ras117Mike/Destiny2/master/docs/images/enemies/Ir%20Halak.jpg)
+![Ir Halak](https://raw.githubusercontent.com/Ras117Mike/Destiny2/master/docs/images/enemies/ir_halak.jpg)
 
 ### Ir Anûk
 
 Deathsinger daughter of Oryx, created after he cut a worm in half with his sword, the Willbreaker. She was killed in the King's Fall Raid where you and your fireteam laid waster to Oryx. Together with Ir Halak they devise the Oversoul.
 
-![Ir Anûk](https://raw.githubusercontent.com/Ras117Mike/Destiny2/master/docs/images/enemies/Ir%20An%C3%BBk.jpg)
+![Ir Anûk](https://raw.githubusercontent.com/Ras117Mike/Destiny2/master/docs/images/enemies/ir_anuk.jpg)
 
 ### Nokris
 Estranged second son of Oryx, he was exiled for his Heresy when he communed with the Worm God Xol. Nokris traded hi heart fo some of Xol's power and the secret of necromancy as the practice of necromancy was a direct violation of the Sword Logic. Oryx had all references of Nokris removed from the World's Grave and the Book of Sorrow; only a statue on the Dreadnaught near the Altar of Oryx remained.
@@ -100,26 +91,15 @@ Nokris promised Xol he would conquer Mars in his name and they both headed to Ma
 
 Using a shard of the Traveler, you lure Xol out to destroy him, Nokris attempted to stop you but was incinerated thus failing to stop you from killing Xol.
 
-<figure>
-  <img src="https://cdna.artstation.com/p/assets/images/images/010/871/194/large/cory-turner-nokris-2.jpg?1526659193" alt="Nokris" style="width:100%">
-  <figcaption>Nokris by <a href="https://www.artstation.com/coryturner">Cory Turner</a> on artstation.com</figcaption>
-</figure>
+<img src="https://cdna.artstation.com/p/assets/images/images/010/871/194/large/cory-turner-nokris-2.jpg" alt="Nokris" style="width:100%">
+Nokris by <a href="https://www.artstation.com/coryturner">Cory Turner</a> on artstation.com
 
 ### Alak-Hul
 Foster son of Oryx, Alk-Hul is a Hive Darkblade Knight. Following the Raid where you and your fireteam defeated Crota, Alak-Hul and his consort Verok instigated rebellion against Oryx. He was imprisoned aboard the Dreadnaught in the Sunless Cell where your fireteam defeated him at the command of Eris, both to stop his chances of taking the Throne and as vengence for Vel Tarlowe who died at the hands of the spawn of Alak-Hul and then impaled after which Alak-Hul would personally impale Vell on his axe.
 
 <img src="https://raw.githubusercontent.com/Ras117Mike/Destiny2/master/docs/images/enemies/alak-hul.jpg" alt="Alak-Hul" style="width:100%">
 
-
-
-
-
-
-
-
-
-
-
+<!-- New Family Branch -->
 ## Xivu Arath
 >"I am Xi Ro, youngest daughter of the dead king. I will take back my Osmium Court and kill the traitor Taox. On my left eye I swear vengeance."<br>— Xi Ro
 
@@ -139,29 +119,19 @@ Daughter of Xivu Arath, a taken knight that was charged with blocking the path t
 
 After their pact with the Worm Gods, Sathona became Savathûn, the Witch Queen. She is driven to understand the deepest secrets of the universe.
 
-<figure>
-  <img src="" alt="" style="width:100%">
-  <figcaption> by <a href="">Piotr Jabłoński</a> on conceptartworld.com</figcaption>
-</figure>
-
 ### Balwûr
 Hive Wizard, daughter of Savathûn, a boss in the Court of Oryx. She fights in the Court by unleashing a toxic substance except for a safe zone under the alert, Acolytes of Balwûr appear to stop the safe zone from being created so you would have to kill them.
+<img src="https://raw.githubusercontent.com/Ras117Mike/Destiny2/master/docs/images/enemies/balwur.jpg" alt="Alak-Hul" style="width:100%">
 
 ### Malok
 Taken Prince, son of Savathûn, rises in power and becomes the prime candidate for Oryx's Throne. An unnamed Thrall begat by his mother, originally to dethrone Oryx, by tithing Savathûn instead of Oryx. He instead kept his tithing for himself, thereby transforming from a Thrall to a knight and then Prince. His thievery was known and he was taken by Oryx. He was driven out of the Dreadnaught to the Shrine of Oryx where he was ultimatley killed by your fireteam.
 
-<figure>
-  <img src="" alt="" style="width:100%">
-  <figcaption> by <a href="">Artist</a> on site.com</figcaption>
-</figure>
+<img src="https://raw.githubusercontent.com/Ras117Mike/Destiny2/master/docs/images/enemies/malok.jpg" alt="Alak-Hul" style="width:100%">
 
 ### Dûl Incaru
 > "Is my cyclical death not the very engine which brings you here, again and again, in hope of answers? Thus I do own the portion of your mind which you devote to truth's pursuit."<br>— Dûl Incaru
 
 Hive Wizard, daughter of Savathûn, she was responsible for the Taken Curse on the Dreaming City through Riven from Mara's Throne World and is often seen with her Fatesmiths (Gaurog, Alak-Tor, and Ba-Kuur) who she can resurrect from the dead.
-
-
-
 
 ## The Hive Structure
 * **Acolyte** - the main attack force of the Hive.
