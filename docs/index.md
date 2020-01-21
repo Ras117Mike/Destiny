@@ -81,9 +81,18 @@ Your story goes on Guardian...
 
 ## Subclass Types
 
-| Arc | Solar | Void |
-|-----|-------|------|
-| <img src="https://raw.githubusercontent.com/Ras117Mike/Destiny2/gh-pages/images//icons/class_arc_icon.png" height="60"><p>_"A spark can give life...or take it."_  | <img src="https://raw.githubusercontent.com/Ras117Mike/Destiny2/gh-pages/images//icons/class_solar_icon.png" height="60"><p>_"Sometimes the only answer is to burn it all away."_ | <img src="https://raw.githubusercontent.com/Ras117Mike/Destiny2/gh-pages/images//icons/class_void_icon.png" height="60"><p>_"It's fitting, then, that we have weaponized the unknown."_ |
+<table>
+  <tr>
+    <th width="33.33%">Arc</th>
+    <th width="33.33%">Solar</th>
+    <th width="33.33%">Void</th>
+  <tr>
+    <td><img class="center" src="https://raw.githubusercontent.com/Ras117Mike/Destiny2/gh-pages/images//icons/class_arc_icon.png" height="60"><p>_"A spark can give life...or take it."_</td>
+    <td><img class="center" src="https://raw.githubusercontent.com/Ras117Mike/Destiny2/gh-pages/images//icons/class_solar_icon.png" height="60"><p>_"Sometimes the only answer is to burn it all away."_</td>
+    <td><img class="center" src="https://raw.githubusercontent.com/Ras117Mike/Destiny2/gh-pages/images//icons/class_void_icon.png" height="60"><p>_"It's fitting, then, that we have weaponized the unknown."_</td>
+  </tr>
+</table>
+
 
 
 ## Destiny 2 Timeline
