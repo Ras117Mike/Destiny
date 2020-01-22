@@ -32,7 +32,7 @@ After the defeat of Crota, Oryx made his way to the Sol system and in the rings 
 The Taken King by <a href="http://conceptartworld.com/artists/ryan-demita/">Ryan DeMita</a> on conceptartworld.com
 
 <img src="https://cdna.artstation.com/p/assets/images/images/001/215/596/large/mark-van-haitsma-mark-van-haitsma-hive-dread-final-03.jpg" alt="" style="width:100%">
-<figcaption>Dreadnaught by <a href="https://www.artstation.com/mvhaitsma">Mark Van Haitsma</a> on artstation.com
+Dreadnaught by <a href="https://www.artstation.com/mvhaitsma">Mark Van Haitsma</a> on artstation.com
 
 ### Crota
 
@@ -76,13 +76,13 @@ Daughter of Crota, there is no data currently known about her.
 
 Deathsinger daughter of Oryx, created after he cut a worm in half with his sword, the Willbreaker. She was killed in the King's Fall Raid where you and your fireteam laid waster to Oryx. Together with Ir Anûk they devise the Oversoul.
 
-![Ir Halak](https://raw.githubusercontent.com/Ras117Mike/Destiny2/master/docs/images/enemies/ir_halak.jpg)
+<img src="https://raw.githubusercontent.com/Ras117Mike/Destiny2/master/docs/images/enemies/ir_halak.jpg" alt="Ir Halak" style="width:100%">
 
 ### Ir Anûk
 
 Deathsinger daughter of Oryx, created after he cut a worm in half with his sword, the Willbreaker. She was killed in the King's Fall Raid where you and your fireteam laid waster to Oryx. Together with Ir Halak they devise the Oversoul.
 
-![Ir Anûk](https://raw.githubusercontent.com/Ras117Mike/Destiny2/master/docs/images/enemies/ir_anuk.jpg)
+<img src="https://raw.githubusercontent.com/Ras117Mike/Destiny2/master/docs/images/enemies/ir_anuk.jpg" alt="Ir Anûk" style="width:100%">
 
 ### Nokris
 Estranged second son of Oryx, he was exiled for his Heresy when he communed with the Worm God Xol. Nokris traded hi heart fo some of Xol's power and the secret of necromancy as the practice of necromancy was a direct violation of the Sword Logic. Oryx had all references of Nokris removed from the World's Grave and the Book of Sorrow; only a statue on the Dreadnaught near the Altar of Oryx remained.
@@ -121,12 +121,12 @@ After their pact with the Worm Gods, Sathona became Savathûn, the Witch Queen. 
 
 ### Balwûr
 Hive Wizard, daughter of Savathûn, a boss in the Court of Oryx. She fights in the Court by unleashing a toxic substance except for a safe zone under the alert, Acolytes of Balwûr appear to stop the safe zone from being created so you would have to kill them.
-<img src="https://raw.githubusercontent.com/Ras117Mike/Destiny2/master/docs/images/enemies/balwur.jpg" alt="Alak-Hul" style="width:100%">
+<img src="https://raw.githubusercontent.com/Ras117Mike/Destiny2/master/docs/images/enemies/balwur.jpg" alt="Balwûr" style="width:100%">
 
 ### Malok
 Taken Prince, son of Savathûn, rises in power and becomes the prime candidate for Oryx's Throne. An unnamed Thrall begat by his mother, originally to dethrone Oryx, by tithing Savathûn instead of Oryx. He instead kept his tithing for himself, thereby transforming from a Thrall to a knight and then Prince. His thievery was known and he was taken by Oryx. He was driven out of the Dreadnaught to the Shrine of Oryx where he was ultimatley killed by your fireteam.
 
-<img src="https://raw.githubusercontent.com/Ras117Mike/Destiny2/master/docs/images/enemies/malok.jpg" alt="Alak-Hul" style="width:100%">
+<img src="https://raw.githubusercontent.com/Ras117Mike/Destiny2/master/docs/images/enemies/malok.jpg" alt="Malok" style="width:100%">
 
 ### Dûl Incaru
 > "Is my cyclical death not the very engine which brings you here, again and again, in hope of answers? Thus I do own the portion of your mind which you devote to truth's pursuit."<br>— Dûl Incaru
