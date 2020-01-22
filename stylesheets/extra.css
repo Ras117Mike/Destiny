@@ -1,5 +1,33 @@
 /* Layout Adjustments - Do not work too well */
 
+@media only screen and (min-width: 76.25em) {
+  .md-main__inner {
+    max-width: none;
+  }
+  .md-sidebar--primary {
+    left: 0;
+  }
+  .md-sidebar--secondary {
+    right: 0;
+    margin-left: 0;
+    -webkit-transform: none;
+    transform: none;
+  }
+}
+
+/* Highlight */
+.md-typeset mark {
+  margin: 0 .25em;
+  padding: .0625em 0;
+  border-radius: .1rem;
+  background-color: #dcfe5f;
+  box-shadow: .25em 0 0 #dcfe5f,-.25em 0 0 #dcfe5f;
+  word-break: break-word;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+}
+
+/* Icon */
 .tb_icon {
   height: 50px;
   vertical-align: middle;
